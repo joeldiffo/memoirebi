@@ -1,0 +1,83 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\DeclareUnicodeCharacter{0300}{ }
+\DeclareUnicodeCharacter{200B}{ }
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{blindtext}
+\usepackage[margin=1in]{geometry}
+%\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{setspace}
+%Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
+\usepackage[Rejne]{fncychap}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{enumitem}
+\setlist[itemize]{label=\textbullet}
+%\doublespacing
+%\onehalfspacing
+\setstretch{1.5}
+
+\makeatletter
+\renewcommand\tableofcontents{%
+    \if@twocolumn
+      \@restonecoltrue\onecolumn
+    \else
+      \@restonecolfalse
+    \fi
+    \chapter*{\contentsname}%
+    \@mkboth{\MakeUppercase\contentsname}{\MakeUppercase\contentsname}%
+    \@starttoc{toc}%
+    \if@restonecol\twocolumn\fi
+    }
+\makeatother
+\pagestyle{headings}
+
+\begin{document}
+\renewcommand{\bibname}{Références Bibliographiques}
+\renewcommand{\listfigurename}{Liste des figures}
+\renewcommand{\tablename}{Tableau}
+\renewcommand{\figurename}{Figure}
+
+\pagenumbering{roman}
+
+\input{chapitres/dedicace}
+
+\input{chapitres/remerciements}
+
+\input{chapitres/avantpropos}
+
+\input{chapitres/resume}
+
+\input{chapitres/abstract}
+
+\newpage
+\addcontentsline{toc}{chapter}{Table des Matières}
+\tableofcontents
+
+\newpage
+\addcontentsline{toc}{chapter}{\numberline{}\listfigurename}
+\listoffigures
+
+\newpage
+\addcontentsline{toc}{chapter}{\numberline{}\listtablename}
+\listoftables
+
+\newpage
+\pagenumbering{arabic}
+\input{chapitres/introductiongenerale}
+
+\newpage
+\input{chapitres/chapitre1}
+
+\newpage
+\input{chapitres/chapitre2}
+
+\newpage
+\input{chapitres/chapitre3}
+
+
+
+
+\end{document}

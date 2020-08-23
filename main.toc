@@ -1,0 +1,163 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }D\IeC {\'e}dicace}{i}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Remerciements}{ii}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Avant Propos}{iii}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }R\IeC {\'e}sum\IeC {\'e}}{iv}% 
+\contentsline {paragraph}{Mots-clefs :}{iv}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Abstract}{v}% 
+\contentsline {chapter}{Table des Mati\IeC {\`e}res}{vi}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Liste des figures}{ix}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Liste des tableaux}{xi}% 
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Introduction G\IeC {\'e}n\IeC {\'e}rale}{1}% 
+\contentsline {paragraph}{}{1}% 
+\contentsline {paragraph}{}{1}% 
+\contentsline {paragraph}{}{1}% 
+\contentsline {paragraph}{}{2}% 
+\contentsline {paragraph}{}{2}% 
+\contentsline {chapter}{\numberline {1}Etat de l'art}{3}% 
+\contentsline {section}{\hbox to\@tempdima {\hfil }Introduction}{3}% 
+\contentsline {section}{\numberline {1.1}Revue de la litt\IeC {\'e}rature}{3}% 
+\contentsline {subsection}{\numberline {1.1.1}Syst\IeC {\`e}mes d\IeC {\'e}cisionnels ou \IeC {\guillemotleft } Business Intelligence \IeC {\guillemotright }}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {subsubsection}{Place du d\IeC {\'e}cisionnel dans l\IeC {\textquoteright }entreprise}{5}% 
+\contentsline {subsubsection}{Diff\IeC {\'e}rents composantes du d\IeC {\'e}cisionnel}{5}% 
+\contentsline {subsubsection}{D\IeC {\'e}cisionnel vs transactionnel}{6}% 
+\contentsline {paragraph}{}{6}% 
+\contentsline {paragraph}{}{7}% 
+\contentsline {subsection}{\numberline {1.1.2}Les entrep\IeC {\^o}ts de donn\IeC {\'e}es ou \IeC {\guillemotleft } Datawarehouse \IeC {\guillemotright }}{7}% 
+\contentsline {paragraph}{}{8}% 
+\contentsline {subsubsection}{Notion de Datawarehouse}{8}% 
+\contentsline {paragraph}{}{8}% 
+\contentsline {subsubsection}{Historique des Datawarehouses}{9}% 
+\contentsline {subsubsection}{Diff\IeC {\'e}rence entre Datawarehouse et base de donn\IeC {\'e}es}{10}% 
+\contentsline {subsection}{\numberline {1.1.3}Les processus ETL}{11}% 
+\contentsline {subsubsection}{Notion d\IeC {\textquoteright }ETL}{12}% 
+\contentsline {subsubsection}{Extraction des donn\IeC {\'e}es}{12}% 
+\contentsline {subsubsection}{Transformation des donn\IeC {\'e}es}{13}% 
+\contentsline {subsubsection}{Chargement des donn\IeC {\'e}es}{13}% 
+\contentsline {paragraph}{}{13}% 
+\contentsline {subsection}{\numberline {1.1.4}Les magasins de donn\IeC {\'e}es ou \IeC {\guillemotleft } datamarts \IeC {\guillemotright }}{14}% 
+\contentsline {paragraph}{}{14}% 
+\contentsline {paragraph}{}{14}% 
+\contentsline {subsection}{\numberline {1.1.5}Les cubes OLAP}{15}% 
+\contentsline {subsubsection}{Concept OLAP}{15}% 
+\contentsline {paragraph}{}{15}% 
+\contentsline {subsubsection}{Notion de cube}{16}% 
+\contentsline {paragraph}{}{16}% 
+\contentsline {paragraph}{}{17}% 
+\contentsline {subsubsection}{Langage de navigation : \IeC {\guillemotleft } MDX \IeC {\guillemotright }}{17}% 
+\contentsline {paragraph}{}{17}% 
+\contentsline {subsection}{\numberline {1.1.6}Les syst\IeC {\`e}mes de \IeC {\guillemotleft } reporting \IeC {\guillemotright }}{18}% 
+\contentsline {subsubsection}{Notion de reporting}{18}% 
+\contentsline {paragraph}{}{18}% 
+\contentsline {paragraph}{}{18}% 
+\contentsline {subsubsection}{Analyse ad-hoc}{19}% 
+\contentsline {paragraph}{}{19}% 
+\contentsline {paragraph}{}{19}% 
+\contentsline {paragraph}{}{20}% 
+\contentsline {paragraph}{}{20}% 
+\contentsline {subsubsection}{Reporting de masse}{20}% 
+\contentsline {paragraph}{}{20}% 
+\contentsline {subsection}{\numberline {1.1.7}Gestion commerciale et d\IeC {\'e}cisionnel}{21}% 
+\contentsline {paragraph}{}{22}% 
+\contentsline {subsubsection}{Importance de la gestion commerciale}{22}% 
+\contentsline {subsubsection}{Objectifs des outils de gestion commerciale}{22}% 
+\contentsline {subsubsection}{Fonctions des outils de gestion commerciale}{23}% 
+\contentsline {paragraph}{}{23}% 
+\contentsline {section}{\numberline {1.2}Probl\IeC {\'e}matique}{24}% 
+\contentsline {subsection}{\numberline {1.2.1}Pr\IeC {\'e}sentation du cas d\IeC {\textquoteright }\IeC {\'e}tudes : AMD Sarl}{24}% 
+\contentsline {subsection}{\numberline {1.2.2}D\IeC {\'e}marche d\IeC {\textquoteright }analyse du probl\IeC {\`e}me}{24}% 
+\contentsline {paragraph}{}{24}% 
+\contentsline {subsection}{\numberline {1.2.3}Identification de la probl\IeC {\'e}matique}{25}% 
+\contentsline {section}{\numberline {1.3}Etude de l\IeC {\textquoteright }existant}{26}% 
+\contentsline {paragraph}{}{26}% 
+\contentsline {subsection}{\numberline {1.3.1}La gestion commerciale \IeC {\`a} AMD}{26}% 
+\contentsline {paragraph}{}{26}% 
+\contentsline {paragraph}{}{27}% 
+\contentsline {subsubsection}{Outils de gestion commerciale}{27}% 
+\contentsline {subsubsection}{Prises de d\IeC {\'e}cisions en gestion commerciale}{27}% 
+\contentsline {subsection}{\numberline {1.3.2}Critique de l\IeC {\textquoteright }existant}{28}% 
+\contentsline {paragraph}{}{29}% 
+\contentsline {paragraph}{}{29}% 
+\contentsline {subsubsection}{Aspect(s) positifs}{29}% 
+\contentsline {subsubsection}{Aspect(s) n\IeC {\'e}gatifs}{29}% 
+\contentsline {subsection}{\numberline {1.3.3}Les solutions concurrentes}{30}% 
+\contentsline {subsubsection}{Techniques de prise de d\IeC {\'e}cisions}{30}% 
+\contentsline {subsubsection}{Typologies des solutions de Business Intelligence}{30}% 
+\contentsline {section}{\numberline {1.4}Solution retenue}{32}% 
+\contentsline {subsection}{\numberline {1.4.1}Description de la solution}{32}% 
+\contentsline {paragraph}{}{33}% 
+\contentsline {subsection}{\numberline {1.4.2}Objectifs du projet final}{34}% 
+\contentsline {subsubsection}{Objectif g\IeC {\'e}n\IeC {\'e}ral}{34}% 
+\contentsline {subsubsection}{Objectifs sp\IeC {\'e}cifiques}{34}% 
+\contentsline {section}{\hbox to\@tempdima {\hfil }Conclusion}{34}% 
+\contentsline {chapter}{\numberline {2}M\IeC {\'e}thodes et Analyse}{35}% 
+\contentsline {section}{\hbox to\@tempdima {\hfil }Introduction}{35}% 
+\contentsline {section}{\numberline {2.1}Processus de d\IeC {\'e}veloppement }{36}% 
+\contentsline {subsection}{\numberline {2.1.1}D\IeC {\'e}finition et importance}{36}% 
+\contentsline {paragraph}{}{36}% 
+\contentsline {subsubsection}{Activit\IeC {\'e}s de d\IeC {\'e}veloppement des SI}{36}% 
+\contentsline {subsubsection}{Importance du processus de d\IeC {\'e}veloppement des SI}{36}% 
+\contentsline {subsection}{\numberline {2.1.2}Types de processus de d\IeC {\'e}veloppement}{37}% 
+\contentsline {subsection}{\numberline {2.1.3}Pr\IeC {\'e}sentation du processus de d\IeC {\'e}veloppement agile : SCRUM}{38}% 
+\contentsline {subsubsection}{Principes de SCRUM}{38}% 
+\contentsline {subsubsection}{Cycle de vie SCRUM}{38}% 
+\contentsline {paragraph}{Un peu de vocabulaire :}{38}% 
+\contentsline {paragraph}{Avantages : }{40}% 
+\contentsline {section}{\numberline {2.2}Analyse Fonctionnelle (A.F.)}{41}% 
+\contentsline {subsection}{\numberline {2.2.1}La d\IeC {\'e}marche d\IeC {\textquoteright }analyse fonctionnelle (A.F.)}{41}% 
+\contentsline {subsubsection}{La m\IeC {\'e}thode APTE : \textbf {AP}plication aux \textbf {T}echniques d\IeC {\textquoteright }\textbf {E}ntreprise}{41}% 
+\contentsline {subsubsection}{Les \IeC {\'e}tapes de l\IeC {\textquoteright }A.F.}{42}% 
+\contentsline {paragraph}{}{42}% 
+\contentsline {paragraph}{}{42}% 
+\contentsline {subsection}{\numberline {2.2.2}L'Analyse du Besoin (A.B.)}{43}% 
+\contentsline {subsubsection}{D\IeC {\'e}finition}{43}% 
+\contentsline {paragraph}{}{43}% 
+\contentsline {subsubsection}{Verbalisation du besoin}{43}% 
+\contentsline {subsection}{\numberline {2.2.3}L'Analyse Fonctionnelle du Besoin (A.F.B.)}{44}% 
+\contentsline {subsubsection}{Les concepts de l\IeC {\textquoteright }A.F.B}{44}% 
+\contentsline {paragraph}{Notion de Fonctions de Service (F.S.)}{44}% 
+\contentsline {subparagraph}{}{45}% 
+\contentsline {paragraph}{Les \IeC {\'e}tapes de l\IeC {\textquoteright }A.F.B.}{45}% 
+\contentsline {subsubsection}{Phases de vie du produit}{45}% 
+\contentsline {subsubsection}{El\IeC {\'e}ments du Milieu Ext\IeC {\'e}rieur (E.M.E.)}{46}% 
+\contentsline {paragraph}{Phase d'utilisation}{46}% 
+\contentsline {paragraph}{Phase de mise \IeC {\`a} jour}{47}% 
+\contentsline {subsubsection}{Fonctions de Service (F.S.)}{48}% 
+\contentsline {paragraph}{Classification des Fonctions de Service}{48}% 
+\contentsline {paragraph}{L\IeC {\textquoteright }expression des fonctions est normalis\IeC {\'e}e par l\IeC {\textquoteright }AFNOR :}{49}% 
+\contentsline {paragraph}{Fonctions de service pour la phase d'utilisation}{50}% 
+\contentsline {paragraph}{Fonctions de service pour la phase de Mise A Jour}{50}% 
+\contentsline {subsubsection}{Le Cahier des Charges Fonctionnel (CdCF)}{51}% 
+\contentsline {paragraph}{Cahier des Charges Fonctionnel}{51}% 
+\contentsline {subparagraph}{Phases de vie du produit}{51}% 
+\contentsline {subparagraph}{El\IeC {\'e}ments du Milieu Ext\IeC {\'e}rieur (Cumul\IeC {\'e})}{51}% 
+\contentsline {subparagraph}{Fonctions de Service (Cumul\IeC {\'e})}{51}% 
+\contentsline {subsection}{\numberline {2.2.4}L'Analyse Fonctionnelle Technique (A.F.T.)}{52}% 
+\contentsline {subsubsection}{D\IeC {\'e}finition et int\IeC {\'e}r\IeC {\^e}t}{52}% 
+\contentsline {paragraph}{Int\IeC {\'e}r\IeC {\^e}ts de l\IeC {\textquoteright }AFT}{52}% 
+\contentsline {subsubsection}{Le diagramme FAST}{52}% 
+\contentsline {paragraph}{Notion de Fonction Technique :}{53}% 
+\contentsline {paragraph}{Utilisation du FAST :}{53}% 
+\contentsline {section}{\numberline {2.3}Gestion du projet }{53}% 
+\contentsline {subsection}{\numberline {2.3.1}D\IeC {\'e}finition et importance}{54}% 
+\contentsline {subsection}{\numberline {2.3.2}Outils et techniques de gestion}{54}% 
+\contentsline {subsubsection}{Outil de planification et de suivi du projet : MS PROJECT}{55}% 
+\contentsline {subsubsection}{Technique d\IeC {\textquoteright }estimation des co\IeC {\^u}ts}{55}% 
+\contentsline {subsubsection}{Outils collaboratifs}{55}% 
+\contentsline {subsection}{\numberline {2.3.3}Planning pr\IeC {\'e}visionnel}{56}% 
+\contentsline {subsection}{\numberline {2.3.4}Estimation des co\IeC {\^u}ts}{56}% 
+\contentsline {subsubsection}{Couts de d\IeC {\'e}veloppement}{56}% 
+\contentsline {subsubsection}{Cout de mise en production}{57}% 
+\contentsline {section}{\hbox to\@tempdima {\hfil }Conclusion}{57}% 
+\contentsline {chapter}{\numberline {3}Conception}{58}% 
+\contentsline {section}{\hbox to\@tempdima {\hfil }Introduction}{58}% 
+\contentsline {section}{\numberline {3.1}Architecture du syst\IeC {\`e}me de Business Intelligence}{59}% 
+\contentsline {section}{\numberline {3.2}Conception du Datawarehouse et des Datamarts}{59}% 
+\contentsline {section}{\numberline {3.3}Conception des ETL}{59}% 
+\contentsline {section}{\numberline {3.4}Conception des cubes OLAP}{60}% 
+\contentsline {section}{\numberline {3.5}Conception du reporting (La visualisation) - La m\IeC {\'e}thode UI/UX}{60}% 
+\contentsline {section}{\hbox to\@tempdima {\hfil }Conclusion}{61}% 
