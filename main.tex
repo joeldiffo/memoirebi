@@ -6,7 +6,10 @@
 \graphicspath{ {./images/} }
 \usepackage{blindtext}
 \usepackage[margin=1in]{geometry}
-%\usepackage[T1]{fontenc}
+% \renewcommand*\rmdefault{dayrom}
+% \usepackage[T1]{fontenc}
+% \usepackage{textcomp}
+% \normalfont
 \usepackage[french]{babel}
 \usepackage{setspace}
 %Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
@@ -18,6 +21,9 @@
 %\doublespacing
 %\onehalfspacing
 \setstretch{1.5}
+\usepackage{caption}
+\usepackage{subcaption}
+
 
 \makeatletter
 \renewcommand\tableofcontents{%

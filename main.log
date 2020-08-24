@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2020.8.16)  22 AUG 2020 09:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2020.8.16)  24 AUG 2020 05:00
 entering extended mode
 **c:/Users/Joel/Documents/3il5/memoire/memoire/document/main.tex
 (c:/Users/Joel/Documents/3il5/memoire/memoire/document/main.tex
@@ -163,6 +163,27 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box29
 \enit@count@id=\count122
 \enitdp@description=\count123
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen124
+\captionmargin@=\dimen125
+\captionwidth=\dimen126
+\caption@tempdima=\dimen127
+\caption@indent=\dimen128
+\caption@parindent=\dimen129
+\caption@hangindent=\dimen130
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count124
+\c@continuedfloat=\count125
+Package caption Info: float package is loaded.
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\subcaption.sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count126
+\c@subtable=\count127
 ) (c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.aux
 
 LaTeX Warning: Label `fig:composantsdudecisionnel' multiply defined.
@@ -173,30 +194,30 @@ LaTeX Warning: Label `tab:etapesaf' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count124
-\scratchdimen=\dimen124
+\scratchcounter=\count128
+\scratchdimen=\dimen131
 \scratchbox=\box30
-\nofMPsegments=\count125
-\nofMParguments=\count126
+\nofMPsegments=\count129
+\nofMParguments=\count130
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count127
-\MPscratchDim=\dimen125
-\MPnumerator=\count128
-\makeMPintoPDFobject=\count129
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen132
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
 \everyMPtoPDFconversion=\toks23
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -263,20 +284,22 @@ Package grfext Info: Graphics extension search list:
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \degres on input line 37.
-LaTeX Info: Redefining \dots on input line 37.
+LaTeX Info: Redefining \degres on input line 43.
+LaTeX Info: Redefining \dots on input line 43.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 37.
+(french.ldf)             reported on input line 43.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 37.
-LaTeX Info: Redefining \up on input line 37.
+(french.ldf)             reported on input line 43.
+LaTeX Info: Redefining \up on input line 43.
 
 Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(french.ldf)                of your document; reported on input line 37.
+(french.ldf)                of your document; reported on input line 43.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/dedicace.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
@@ -321,42 +344,37 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 ) [5
 
 ]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 57--57
+Overfull \hbox (6.0pt too wide) in paragraph at lines 63--63
 [][] 
  []
 
 (c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.toc [6
 
-] [7])
+] [7] [8])
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [8]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 61--61
+ [9]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 67--67
 [][] 
  []
 
-(c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.lof)
+(c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.lof [10
+
+])
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [9
-
-] [10]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 65--65
+ [11]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 71--71
 [][] 
  []
 
-(c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.lot
-Overfull \hbox (4.80956pt too wide) in paragraph at lines 3--3
- [][] []\OT1/cmr/m/n/12 Tableau com-pa-ra-tif entre les systemes tran-sac-tion-nels et les systemes decisionnels. []  
- []
-
-)
+(c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [11
+ [12
 
 ] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/introductiongenerale.tex
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -378,23 +396,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 20.
- [4]
-<./images/decisionnelauseindusi.png, id=59, 685.05937pt x 459.96844pt>
+<./images/decisionnelauseindusi.png, id=55, 685.05937pt x 459.96844pt>
 File: ./images/decisionnelauseindusi.png Graphic file (type png)
 <use ./images/decisionnelauseindusi.png>
 Package pdftex.def Info: ./images/decisionnelauseindusi.png  used on input line 33.
 (pdftex.def)             Requested size: 469.75502pt x 315.41338pt.
-
+ [4]
 Overfull \hbox (15.08856pt too wide) in paragraph at lines 39--40
 []\OT1/cmr/m/n/12 En re-la-tion etroite avec les nou-velles tech-no-lo-gies de l'in-for-ma-tion et des telecommunications,
  []
 
-<./images/composantsdudecisionnel.png, id=60, 520.19344pt x 395.22656pt>
+<./images/composantsdudecisionnel.png, id=63, 520.19344pt x 395.22656pt>
 File: ./images/composantsdudecisionnel.png Graphic file (type png)
 <use ./images/composantsdudecisionnel.png>
 Package pdftex.def Info: ./images/composantsdudecisionnel.png  used on input line 43.
@@ -427,13 +442,13 @@ Overfull \hbox (43.81049pt too wide) in paragraph at lines 95--96
  []
 
 [8]
-<./images/nonvolatilitedonnees.png, id=77, 440.39531pt x 223.58531pt>
+<./images/nonvolatilitedonnees.png, id=79, 440.39531pt x 223.58531pt>
 File: ./images/nonvolatilitedonnees.png Graphic file (type png)
 <use ./images/nonvolatilitedonnees.png>
 Package pdftex.def Info: ./images/nonvolatilitedonnees.png  used on input line 100.
 (pdftex.def)             Requested size: 440.39423pt x 223.58475pt.
  [9 <./images/nonvolatilitedonnees.png>] [10]
-<./images/etl.png, id=85, 498.36188pt x 276.28218pt>
+<./images/etl.png, id=87, 498.36188pt x 276.28218pt>
 File: ./images/etl.png Graphic file (type png)
 <use ./images/etl.png>
 Package pdftex.def Info: ./images/etl.png  used on input line 171.
@@ -444,147 +459,225 @@ Overfull \hbox (28.60564pt too wide) in paragraph at lines 171--172
  []
 
 [11] [12 <./images/etl.png>] [13]
-<./images/datamart.png, id=96, 277.78781pt x 136.25906pt>
+<./images/datamart.png, id=99, 277.78781pt x 136.25906pt>
 File: ./images/datamart.png Graphic file (type png)
 <use ./images/datamart.png>
 Package pdftex.def Info: ./images/datamart.png  used on input line 208.
 (pdftex.def)             Requested size: 277.78711pt x 136.25871pt.
  [14] [15 <./images/datamart.png>]
-<./images/olapcube.png, id=105, 402.75468pt x 274.77657pt>
+<./images/olapcube.png, id=107, 402.75468pt x 274.77657pt>
 File: ./images/olapcube.png Graphic file (type png)
 <use ./images/olapcube.png>
 Package pdftex.def Info: ./images/olapcube.png  used on input line 231.
 (pdftex.def)             Requested size: 402.7537pt x 274.77588pt.
- [16 <./images/olapcube.png>] [17]
-<./images/reportingreussi.png, id=113, 427.5975pt x 253.69781pt>
+ [16 <./images/olapcube.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 248.
+ [17]
+<./images/reportingreussi.png, id=116, 427.5975pt x 253.69781pt>
 File: ./images/reportingreussi.png Graphic file (type png)
 <use ./images/reportingreussi.png>
 Package pdftex.def Info: ./images/reportingreussi.png  used on input line 266.
 (pdftex.def)             Requested size: 427.59645pt x 253.69719pt.
  [18] [19 <./images/reportingreussi.png>] [20]
-<./images/reportingmasse.png, id=125, 213.04594pt x 158.84344pt>
+<./images/reportingmasse.png, id=128, 213.04594pt x 158.84344pt>
 File: ./images/reportingmasse.png Graphic file (type png)
 <use ./images/reportingmasse.png>
 Package pdftex.def Info: ./images/reportingmasse.png  used on input line 291.
 (pdftex.def)             Requested size: 213.04541pt x 158.84305pt.
-
+ [21 <./images/reportingmasse.png>]
 Overfull \hbox (15.5455pt too wide) in paragraph at lines 315--316
  [] \OT1/cmr/m/n/12 La ges-tion com-mer-ciale s'oc-cupe de toute la cha^ne necessaire a la pro-duc-tion de biens/services
  []
 
-[21 <./images/reportingmasse.png>] [22] [23] [24]
-<./images/ishikawa.png, id=139, 510.40688pt x 241.65282pt>
+[22] [23]) [24] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre2.tex
+Chapitre 2.
+[25
+
+] [26]
+<./images/ishikawa.png, id=149, 510.40688pt x 241.65282pt>
 File: ./images/ishikawa.png Graphic file (type png)
 <use ./images/ishikawa.png>
-Package pdftex.def Info: ./images/ishikawa.png  used on input line 385.
+Package pdftex.def Info: ./images/ishikawa.png  used on input line 28.
 (pdftex.def)             Requested size: 469.75502pt x 222.41916pt.
- [25 <./images/ishikawa.png>] [26]
-Underfull \hbox (badness 4543) in paragraph at lines 426--427
+ [27 <./images/ishikawa.png>] [28]
+Underfull \hbox (badness 4543) in paragraph at lines 69--70
 []\OT1/cmr/m/n/12 Utilisation sur 3 annees
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 428--428
+Underfull \hbox (badness 1365) in paragraph at lines 71--71
 \OT1/cmr/m/n/12 modele de ges-tion as-sez com-plexes.
  []
 
-[27]
-<./images/niveaudeladecision.png, id=150, 546.54187pt x 299.61937pt>
+<./images/niveaudeladecision.png, id=156, 546.54187pt x 299.61937pt>
 File: ./images/niveaudeladecision.png Graphic file (type png)
 <use ./images/niveaudeladecision.png>
-Package pdftex.def Info: ./images/niveaudeladecision.png  used on input line 441.
+Package pdftex.def Info: ./images/niveaudeladecision.png  used on input line 84.
 (pdftex.def)             Requested size: 469.75502pt x 257.52591pt.
- [28 <./images/niveaudeladecision.png>] [29] [30]
-Overfull \hbox (5.03629pt too wide) in paragraph at lines 511--525
+[29] [30 <./images/niveaudeladecision.png>] [31] [32]
+Overfull \hbox (5.03629pt too wide) in paragraph at lines 154--168
  [][] 
  []
 
-[31]
-<./images/aidealadecision.png, id=164, 718.685pt x 295.1025pt>
+[33]
+<./images/aidealadecision.png, id=174, 718.685pt x 295.1025pt>
 File: ./images/aidealadecision.png Graphic file (type png)
 <use ./images/aidealadecision.png>
-Package pdftex.def Info: ./images/aidealadecision.png  used on input line 537.
+Package pdftex.def Info: ./images/aidealadecision.png  used on input line 180.
 (pdftex.def)             Requested size: 469.75502pt x 192.89503pt.
- [32] [33 <./images/aidealadecision.png>]
-Overfull \hbox (1.14981pt too wide) in paragraph at lines 554--555
+ [34 <./images/aidealadecision.png>]
+Overfull \hbox (1.14981pt too wide) in paragraph at lines 197--198
 []\OT1/cmr/m/n/12 Apres avoir pose nos problemes et etudie com-ment nous al-lons proceder a leurs resolutions,
  []
 
-) [34] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre2.tex
-Chapitre 2.
-[35
-
-] [36] [37]
-Overfull \hbox (14.78348pt too wide) in paragraph at lines 41--42
-[]\OT1/cmr/bx/n/12 Extreme Pro-gram-ming (XP) :  \OT1/cmr/m/n/12 XP est une ap-proche dis-ci-plinee pour le developpement
- []
-
-[38]
-Overfull \hbox (31.65207pt too wide) in paragraph at lines 71--72
-[]\OT1/cmr/bx/n/12 M^elee quo-ti-dienne : \OT1/cmr/m/n/12 il s'agit d'une reunion de syn-chro-ni-sa-tion de l'equipe de developpement
- []
-
-<./images/scrum.jpg, id=189, 451.6875pt x 199.74625pt>
-File: ./images/scrum.jpg Graphic file (type jpg)
-<use ./images/scrum.jpg>
-Package pdftex.def Info: ./images/scrum.jpg  used on input line 75.
-(pdftex.def)             Requested size: 469.75502pt x 207.74948pt.
-[39] [40 <./images/scrum.jpg>] [41] [42]
-<./images/bac.png, id=202, 826.08624pt x 343.2825pt>
+[35] [36] [37]
+<./images/bac.png, id=189, 826.08624pt x 343.2825pt>
 File: ./images/bac.png Graphic file (type png)
 <use ./images/bac.png>
-Package pdftex.def Info: ./images/bac.png  used on input line 184.
+Package pdftex.def Info: ./images/bac.png  used on input line 301.
 (pdftex.def)             Requested size: 469.75502pt x 195.2121pt.
- [43] [44 <./images/bac.png>] [45]
-<./images/emeutilisation.png, id=214, 595.47469pt x 301.8778pt>
+ [38] [39 <./images/bac.png>] [40]
+<./images/emeutilisation.png, id=200, 595.47469pt x 301.8778pt>
 File: ./images/emeutilisation.png Graphic file (type png)
 <use ./images/emeutilisation.png>
-Package pdftex.def Info: ./images/emeutilisation.png  used on input line 280.
+Package pdftex.def Info: ./images/emeutilisation.png  used on input line 397.
 (pdftex.def)             Requested size: 469.75502pt x 238.14458pt.
- [46]
-<./images/ememiseajour.png, id=218, 593.96906pt x 323.70938pt>
+ [41]
+<./images/ememiseajour.png, id=204, 593.96906pt x 323.70938pt>
 File: ./images/ememiseajour.png Graphic file (type png)
 <use ./images/ememiseajour.png>
-Package pdftex.def Info: ./images/ememiseajour.png  used on input line 303.
+Package pdftex.def Info: ./images/ememiseajour.png  used on input line 420.
 (pdftex.def)             Requested size: 469.75502pt x 256.02397pt.
- [47 <./images/emeutilisation.png>] [48 <./images/ememiseajour.png>]
-<./images/fsutilisation.png, id=228, 594.72188pt x 304.88907pt>
+ [42 <./images/emeutilisation.png>] [43 <./images/ememiseajour.png>]
+<./images/fsutilisation.png, id=215, 594.72188pt x 304.88907pt>
 File: ./images/fsutilisation.png Graphic file (type png)
 <use ./images/fsutilisation.png>
-Package pdftex.def Info: ./images/fsutilisation.png  used on input line 340.
+Package pdftex.def Info: ./images/fsutilisation.png  used on input line 457.
 (pdftex.def)             Requested size: 469.75502pt x 240.8225pt.
- [49 <./images/fsutilisation.png>]
-<./images/fsmiseajour.png, id=233, 593.96906pt x 328.22626pt>
+ [44 <./images/fsutilisation.png>]
+<./images/fsmiseajour.png, id=220, 593.96906pt x 328.22626pt>
 File: ./images/fsmiseajour.png Graphic file (type png)
 <use ./images/fsmiseajour.png>
-Package pdftex.def Info: ./images/fsmiseajour.png  used on input line 363.
+Package pdftex.def Info: ./images/fsmiseajour.png  used on input line 480.
 (pdftex.def)             Requested size: 469.75502pt x 259.59639pt.
- [50 <./images/fsmiseajour.png>] [51]
-Overfull \hbox (23.40477pt too wide) in paragraph at lines 427--428
+ [45 <./images/fsmiseajour.png>] [46]
+Overfull \hbox (23.40477pt too wide) in paragraph at lines 544--545
 []\OT1/cmr/bx/n/12 La tracabilite :  \OT1/cmr/m/n/12 Les ou-tils de l'AFT per-mettent aux concep-teurs d'as-so-cier immediatement
  []
 
-[52] [53] [54] [55] [56]) [57] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre3.tex
+[47] [48] [49] [50]
+Overfull \hbox (14.78348pt too wide) in paragraph at lines 620--621
+[]\OT1/cmr/bx/n/12 Extreme Pro-gram-ming (XP) :  \OT1/cmr/m/n/12 XP est une ap-proche dis-ci-plinee pour le developpement
+ []
+
+[51]
+Overfull \hbox (31.65207pt too wide) in paragraph at lines 655--656
+[]\OT1/cmr/bx/n/12 M^elee quo-ti-dienne : \OT1/cmr/m/n/12 il s'agit d'une reunion de syn-chro-ni-sa-tion de l'equipe de developpement
+ []
+
+[52]
+<./images/scrum.jpg, id=247, 451.6875pt x 199.74625pt>
+File: ./images/scrum.jpg Graphic file (type jpg)
+<use ./images/scrum.jpg>
+Package pdftex.def Info: ./images/scrum.jpg  used on input line 659.
+(pdftex.def)             Requested size: 469.75502pt x 207.74948pt.
+ [53 <./images/scrum.jpg>] [54] [55] [56]) [57] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre3.tex
 Chapitre 3.
 [58
 
-] [59] [60]) [61] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.aux)
+]
+<./images/architecturesysteme.png, id=267, 791.20593pt x 271.76532pt>
+File: ./images/architecturesysteme.png Graphic file (type png)
+<use ./images/architecturesysteme.png>
+Package pdftex.def Info: ./images/architecturesysteme.png  used on input line 16.
+(pdftex.def)             Requested size: 469.75502pt x 161.35196pt.
+ [59 <./images/architecturesysteme.png>]
+<./images/bddetdwh.png, id=272, 570.63188pt x 354.57469pt>
+File: ./images/bddetdwh.png Graphic file (type png)
+<use ./images/bddetdwh.png>
+Package pdftex.def Info: ./images/bddetdwh.png  used on input line 37.
+(pdftex.def)             Requested size: 469.75502pt x 291.89471pt.
+ [60]
+Overfull \hbox (14.0094pt too wide) in paragraph at lines 42--43
+[]\OT1/cmr/m/n/12 Mais d'abord par-lons de l'ar-chi-tec-ture qu'aura le da-ta-wa-re-house que nous vou-lons construire. 
+ []
+
+
+Overfull \hbox (5.52754pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/12 conte-nir des donnees agregees cou-vrant l'en-semble de l'or-ga-ni-sa-tion. Ce modele considere
+ []
+
+[61 <./images/bddetdwh.png>]
+<./images/architecturedwh.png, id=281, 473.51906pt x 306.39468pt>
+File: ./images/architecturedwh.png Graphic file (type png)
+<use ./images/architecturedwh.png>
+Package pdftex.def Info: ./images/architecturedwh.png  used on input line 57.
+(pdftex.def)             Requested size: 469.75502pt x 303.9675pt.
+ [62 <./images/architecturedwh.png>]
+<./images/architecturedwhfinal.png, id=286, 472.76625pt x 266.49562pt>
+File: ./images/architecturedwhfinal.png Graphic file (type png)
+<use ./images/architecturedwhfinal.png>
+Package pdftex.def Info: ./images/architecturedwhfinal.png  used on input line 66.
+(pdftex.def)             Requested size: 469.75502pt x 264.80334pt.
+
+
+LaTeX Warning: Reference `fig:modeledimensionnel' on page 63 undefined on input line 72.
+
+<./images/modeledimensionnel.png, id=287, 356.0803pt x 316.93407pt>
+File: ./images/modeledimensionnel.png Graphic file (type png)
+<use ./images/modeledimensionnel.png>
+Package pdftex.def Info: ./images/modeledimensionnel.png  used on input line 76.
+(pdftex.def)             Requested size: 469.75502pt x 418.12697pt.
+[63 <./images/architecturedwhfinal.png>]
+<./images/structuretabledesfaits.png, id=292, 252.945pt x 158.09062pt>
+File: ./images/structuretabledesfaits.png Graphic file (type png)
+<use ./images/structuretabledesfaits.png>
+Package pdftex.def Info: ./images/structuretabledesfaits.png  used on input line 88.
+(pdftex.def)             Requested size: 225.48555pt x 140.93178pt.
+<./images/exempletabledesfaits.png, id=293, 115.18031pt x 136.25906pt>
+File: ./images/exempletabledesfaits.png Graphic file (type png)
+<use ./images/exempletabledesfaits.png>
+Package pdftex.def Info: ./images/exempletabledesfaits.png  used on input line 94.
+(pdftex.def)             Requested size: 131.52882pt x 155.60928pt.
+ [64 <./images/modeledimensionnel.png>]
+<./images/exempletablesdedimensions.png, id=297, 374.14781pt x 225.09094pt>
+File: ./images/exempletablesdedimensions.png Graphic file (type png)
+<use ./images/exempletablesdedimensions.png>
+Package pdftex.def Info: ./images/exempletablesdedimensions.png  used on input line 105.
+(pdftex.def)             Requested size: 469.75502pt x 282.62346pt.
+ [65 <./images/structuretabledesfaits.png> <./images/exempletabledesfaits.png>]
+<./images/exempleflocon.png, id=301, 368.1253pt x 284.56313pt>
+File: ./images/exempleflocon.png Graphic file (type png)
+<use ./images/exempleflocon.png>
+Package pdftex.def Info: ./images/exempleflocon.png  used on input line 125.
+(pdftex.def)             Requested size: 469.75502pt x 363.14969pt.
+ [66 <./images/exempletablesdedimensions.png>]
+<./images/exempleconstellation.png, id=305, 545.78906pt x 229.60782pt>
+File: ./images/exempleconstellation.png Graphic file (type png)
+<use ./images/exempleconstellation.png>
+Package pdftex.def Info: ./images/exempleconstellation.png  used on input line 134.
+(pdftex.def)             Requested size: 469.75502pt x 197.62003pt.
+ [67 <./images/exempleflocon.png>] [68 <./images/exempleconstellation.png>] [69] [70] [71] [72] [73]) [74] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4147 strings out of 492946
- 63511 string characters out of 3135530
- 148970 words of memory out of 3000000
- 7925 multiletter control sequences out of 15000+200000
+ 5397 strings out of 492946
+ 87478 string characters out of 3135530
+ 169859 words of memory out of 3000000
+ 9157 multiletter control sequences out of 15000+200000
  10481 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,32p,1269b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,40p,1269b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.pdf (72 pages, 1116346 bytes).
+Output written on c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.pdf (86 pages, 1748956 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
+ 373 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
