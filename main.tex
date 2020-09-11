@@ -10,6 +10,7 @@
 % \usepackage[T1]{fontenc}
 % \usepackage{textcomp}
 % \normalfont
+
 \usepackage[french]{babel}
 \usepackage{setspace}
 %Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
@@ -17,12 +18,17 @@
 \usepackage{multirow}
 \usepackage{float}
 \usepackage{enumitem}
-\setlist[itemize]{label=\textbullet}
+% \setlist[itemize]{label=\textbullet}
 %\doublespacing
 %\onehalfspacing
 \setstretch{1.5}
 \usepackage{caption}
 \usepackage{subcaption}
+% \usepackage{biblatex}
+% \addbibresource{sample.bib}
+% \usepackage{comment}
+% \usepackage[backend=biber, style=alphabetic, sorting=ynt]{biblatex}
+% \addbibresource{sample.bib}
 
 
 \makeatletter
@@ -38,7 +44,23 @@
     \if@restonecol\twocolumn\fi
     }
 \makeatother
-\pagestyle{headings}
+
+
+\usepackage{fancyhdr}
+%\pagestyle{headings}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[CE,CO]{Optimisation de la Gestion Commerciale d'une Entreprise avec un Datawarehouse : Cas de AMD Sarl}
+\renewcommand\footrulewidth{0.4pt}
+\fancyfoot[CE,LO]{Rédigé et soutenu par FOKOU DIFFO KANG Joel}
+\fancyfoot[LE,RO]{\thepage}
+\usepackage[page]{appendix}
+% \usepackage{etoc}
+% \setcounter{tocdepth}{3}
+
+% \usepackage{hyperref}
+
+
 
 \begin{document}
 \renewcommand{\bibname}{Références Bibliographiques}
@@ -52,21 +74,20 @@
 
 \input{chapitres/remerciements}
 
-\input{chapitres/avantpropos}
+%\input{chapitres/avantpropos}
 
 \input{chapitres/resume}
 
 \input{chapitres/abstract}
 
-\newpage
-\addcontentsline{toc}{chapter}{Table des Matières}
+\renewcommand{\contentsname}{Sommaire}
+% \etocsetnexttocdepth{section}
+\addcontentsline{toc}{chapter}{\numberline{}\contentsname}
 \tableofcontents
 
-\newpage
 \addcontentsline{toc}{chapter}{\numberline{}\listfigurename}
 \listoffigures
 
-\newpage
 \addcontentsline{toc}{chapter}{\numberline{}\listtablename}
 \listoftables
 
@@ -83,7 +104,35 @@
 \newpage
 \input{chapitres/chapitre3}
 
+\newpage
+\input{chapitres/chapitre4}
+
+\newpage
+\input{chapitres/chapitre5}
+
+\newpage
+\input{chapitres/conclusiongenerale}
+
+% \newpage
+% \printbibliography
+\bibliography{sample} 
+\bibliographystyle{apalike}
 
 
+% \newpage
+% \input{chapitres/annexes}
+
+
+
+% \setcounter{tocdepth}{4}
+% \addcontentsline{toc}{chapter}{\numberline{}Table des Matières}
+% \tableofcontents
+
+
+
+% \renewcommand{\contentsname}{Table des Matières}
+% %\setcounter{tocdepth}{3}
+% \addcontentsline{toc}{chapter}{\numberline{}\contentsname}
+% \tableofcontents
 
 \end{document}

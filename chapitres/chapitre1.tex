@@ -11,22 +11,22 @@ Ici nous allons essayer de comprendre les différents concepts qui seront abord�
 Afin de mieux comprendre la finalité des systèmes décisionnels, nous nous devons de les placer dans leurs contextes et rappeler ce qu’est un système d’information.
 
 \paragraph{}
-«Le système d’information est l’ensemble des méthodes et moyens de recueil de contrôle et de distribution des informations nécessaires à l’exercice de l’activité en tout point de l’organisation. Il a pour fonction de produire et de mémoriser les informations, de l’activité du système opérant (système opérationnel), puis de les mettre à disposition du système de décision (système de pilotage)»[Le Moigne, 1977]
+«Le système d’information est l’ensemble des méthodes et moyens de recueil de contrôle et de distribution des informations nécessaires à l’exercice de l’activité en tout point de l’organisation. Il a pour fonction de produire et de mémoriser les informations, de l’activité du système opérant (système opérationnel), puis de les mettre à disposition du système de décision (système de pilotage)» \cite{book:3}
 \paragraph{}
 Les différences qui existent entre le système de pilotage (système décisionnel) et le système opérationnel (système transactionnel), du point de vue fonctionnel ou des tâches à effectuer, conduit à l’apparition des « systèmes d’information décisionnels » (S.I.D.). Ces différences seront clairement illustrées un peu plus loin dans notre document.
 \paragraph{}
 
 Les origines des SID remontent au début de l’informatique et des systèmes d’information
-qui ont, tous deux, connu une grande et complexe évolution liée notamment Cette évolution se poursuit à ce jour\footnote{à partir de la thèse de Bouzghoub A. « Modélisation des entrepôts de données XML: application au domaine de la sécurité sociale » [Bouzghoub, 2008].}.
+qui ont, tous deux, connu une grande et complexe évolution liée notamment Cette évolution se poursuit à ce jour \cite{book:1}.
 \paragraph{}
 Différentes définitions du décisionnel « Business Intelligence B.I. » ont étés données au fil des ans. Parmi celles-ci on trouve : 
 
 \textit{"Le Décisionnel est le processus visant à transformer les données en informations et,
 par l'intermédiaire d'interrogations successives, transformer ces informations en
-connaissances."} [Dresner, 2001].
+connaissances."} \cite{book:2}.
 
 \subsection{Place du décisionnel dans l’entreprise}
-La figure \ref{fig:decisionnelauseindusi}, extraite de [Goglin, 1998], illustre parfaitement la place qui revient au décisionnel au sein d’une entreprise. Cette place, comprend plusieurs fonctions clés de l’entreprise. Les finalités décisionnelles, étant différentes selon le poste et la fonction occupée, ont pour but d’engendrer plusieurs composantes.
+La figure \ref{fig:decisionnelauseindusi}, extraite de \cite{book:4}, illustre parfaitement la place qui revient au décisionnel au sein d’une entreprise. Cette place, comprend plusieurs fonctions clés de l’entreprise. Les finalités décisionnelles, étant différentes selon le poste et la fonction occupée, ont pour but d’engendrer plusieurs composantes.
 
 \begin{figure}[H]
     \centering
@@ -91,9 +91,9 @@ Bill Inmon définit l’entrepôt de données dans son ouvrage "Building Data wa
 Cette définition d’ED\footnote{Entrepôt de Données} a été conceptualisée en termes de caractéristiques du référentiel des données, qui seront détaillées dans les points suivants :
 
 \begin{itemize}
-    \item \textbf{Orientées sujet :} Les données de l’entrepôt sont organisées par thème (autour des sujets majeurs et des métiers de l’entreprise). L’intérêt dans cette organisation est de disposer d’un ensemble d’informations utiles sur un sujet transversal aux structures fonctionnelles et organisationnelles de l’entreprise. [Inmon, 1992]\footnote{William Inmon, Building the data warehouse, QED Technical publishing groupe, Wellesly,Massachusetts,USA, 1992.}
-    \item \textbf{Intégrées :} Les données dans l’entrepôt proviennent de différentes sources éventuellement hétérogènes. L’intégration est un processus qui consiste à résoudre les problèmes d’hétérogénéité, où les données contenues dans ED sont divisées en grandes subdivisions appelées domaine. [Desnos, 2011] \footnote{J F Desnos, Entrepôt de données-introduction, Spécialité Double Compétence : informatique et Sciences Scociales, Université de Grenoble, 2011}
-    \item \textbf{Non volatiles :} Les données stockées au sien de l’entrepôt sont permanentes et ne peuvent être modifiées, et le rafraîchissement de l’entrepôt de données, consiste seulement à ajouter de nouvelles données sans modifier ou perdre celle qui existent. Ceci pour conserver la traçabilité des informations et des décisions prises. [Desnos, 2011]
+    \item \textbf{Orientées sujet :} Les données de l’entrepôt sont organisées par thème (autour des sujets majeurs et des métiers de l’entreprise). L’intérêt dans cette organisation est de disposer d’un ensemble d’informations utiles sur un sujet transversal aux structures fonctionnelles et organisationnelles de l’entreprise. \cite{book:5}
+    \item \textbf{Intégrées :} Les données dans l’entrepôt proviennent de différentes sources éventuellement hétérogènes. L’intégration est un processus qui consiste à résoudre les problèmes d’hétérogénéité, où les données contenues dans ED sont divisées en grandes subdivisions appelées domaine. \cite{book:6}
+    \item \textbf{Non volatiles :} Les données stockées au sien de l’entrepôt sont permanentes et ne peuvent être modifiées, et le rafraîchissement de l’entrepôt de données, consiste seulement à ajouter de nouvelles données sans modifier ou perdre celle qui existent. Ceci pour conserver la traçabilité des informations et des décisions prises. \cite{book:6}
     
     \begin{figure}[H]
         \centering
@@ -102,14 +102,14 @@ Cette définition d’ED\footnote{Entrepôt de Données} a été conceptualisée
         \label{fig:composantsdudecisionnel}
     \end{figure}
 
-    La figure \ref{fig:composantsdudecisionnel} extrait de l'ouvrage de William Ilmon 'Building the Datawarehouse'\footnote{William Inmon, Building the data warehouse, Fourth edition, Wiley edition, USA , 2005.} démontre la non volatilité des données dans les entrepôt de données.
+    La figure \ref{fig:composantsdudecisionnel} extrait de l'ouvrage de William Ilmon 'Building the Datawarehouse' \cite{book:7} démontre la non volatilité des données dans les entrepôt de données.
 
-    \item \textbf{Historisées :} Pour suivre dans le temps l’évolution des différentes valeurs des indicateurs à analyser, l’historisation est nécessaire. Un référentiel de temps est associé aux données, afin de permettre l’identification dans la durée de valeurs précise. [Inmon, 1992]
+    \item \textbf{Historisées :} Pour suivre dans le temps l’évolution des différentes valeurs des indicateurs à analyser, l’historisation est nécessaire. Un référentiel de temps est associé aux données, afin de permettre l’identification dans la durée de valeurs précise. \cite{book:5}
 \end{itemize}
 
 
 \subsection{Historique des Datawarehouses}
-L’origine des ED revient à 1960, ou l’entreprise General Mills et l’Université Dartmouth, dans un projet conjoint, créent les termes "faits" et "dimensions".Les dates marquantes de l’histoire des entrepôts de données sont :[Polraj Ponia,2011]\footnote{Polraj Ponia, Data Warehousing Fundamentals for IT Professionals, The second edition John Wiley and Sons, 2011.}
+L’origine des ED revient à 1960, ou l’entreprise General Mills et l’Université Dartmouth, dans un projet conjoint, créent les termes "faits" et "dimensions".Les dates marquantes de l’histoire des entrepôts de données sont : \cite{book:8}
 \begin{itemize}
     \item En \textbf{1983}, Teradata introduit dans son SGBD un système purement décisionnel.
     \item En \textbf{1988}, Le terme DataWarehouse est utilisé pour la premiere fois dans l’article "An architecture for business and information systems" publier par Barry Devlin et Paul Murphy dans le journal système d’IBM.
@@ -125,7 +125,7 @@ L’origine des ED revient à 1960, ou l’entreprise General Mills et l’Unive
 % \blindtext
 
 \subsection{Différence entre Datawarehouse et base de données}
-Le concept d’un entrepôt de données est apparu lors de l’existence de différence entre les systèmes transactionnels en ligne (OLTP) et les systèmes informationnels, dont certaines de ces différences fondamentales sont listées à travers le Tab1.1.Mais d’autres méthodes et techniques de conception et d’implémentation d’ED ont vu le jour, l’une de ces techniques est le modèle dimensionnel de Kim Bail apparue en 1996. [Mathieu Durgé, 2004]\footnote{Mathieu Durgé. Mémoire sur le thème : Conception et réalisation d’un entrepôt de données, intégration à un système existant et étape nécessaire vers le forage de données, Université du Québec à Trois-Rivières, Mars 2004.}
+Le concept d’un entrepôt de données est apparu lors de l’existence de différence entre les systèmes transactionnels en ligne (OLTP) et les systèmes informationnels, dont certaines de ces différences fondamentales sont listées à travers le Tab1.1.Mais d’autres méthodes et techniques de conception et d’implémentation d’ED ont vu le jour, l’une de ces techniques est le modèle dimensionnel de Kim Bail apparue en 1996. \cite{thesis:1}
 
 \begin{table}[H]
     \centering
@@ -164,7 +164,7 @@ Le concept d’un entrepôt de données est apparu lors de l’existence de diff
 
 
 \section{Les processus ETL}
-« Extract-Transform-Load » est connu sous le terme ETL (ou parfois : datapumping). Il s'agit d'une technologie informatique intergicielle (comprendre middleware)\footnote{Un logiciel tiers qui crée un réseau d'échange d'informations entre différentes applications informatiques.} permettant d'effectuer des synchronisations massives d'information d'une base de données vers une autre. Selon le contexte, on traduira par « extraction », « transformation », « alimentation ». La figure \ref{fig:etl} extrait du site web officiel de SupINFO\footnote{https://www.supinfo.com/articles/single/1341-notion-etl}, démontre le travail du processus ETL. 
+« Extract-Transform-Load » est connu sous le terme ETL (ou parfois : datapumping). Il s'agit d'une technologie informatique intergicielle (comprendre middleware)\footnote{Un logiciel tiers qui crée un réseau d'échange d'informations entre différentes applications informatiques.} permettant d'effectuer des synchronisations massives d'information d'une base de données vers une autre. Selon le contexte, on traduira par « extraction », « transformation », « alimentation ». La figure \ref{fig:etl} extrait du site web officiel de SupINFO \cite{website:1}, démontre le travail du processus ETL. 
 
 \begin{figure}[H]
     \centering
@@ -177,12 +177,10 @@ Le concept d’un entrepôt de données est apparu lors de l’existence de diff
 L'ETL représente la zone de construction qui contient l’ensemble d’outils et techniques utilisés lors du processus de préparation des données, avant leurs chargements au niveau de l’entrepôt, qui sont utilisés pour alimenter les bases de données opérationnelles qui se situent au niveau du Data warehouse tier. Comme son nom l’indique, l’ETL est un processus à trois étapes.
 
 \subsection{Extraction des données}
-Consiste à recueillir des données hétérogènes provenant de multiples sources, base de données opérationnelles, ou des fichiers de différents formats ; ils peuvent être des sources internes à l’organisation ou extérieures. Pour résoudre les problèmes d’interopérabilité, les données sont extraites chaque fois que possible en utilisant l’interface du programme d’application, telles que ODBC (Open DataBase Connection), OLEDB (Open Linking and Embedding for DataBase) et JDBC (Java DataBase Connectivity). [Elizabieta M., Esteban Z., 2008] \footnote{Elizabieta Malinowski and Esteban Zimanyi, Advanced Data Warehouse Designe : From
-Conventional to Spatial and Temporal, Edition Springer, 2008.}
+Consiste à recueillir des données hétérogènes provenant de multiples sources, base de données opérationnelles, ou des fichiers de différents formats ; ils peuvent être des sources internes à l’organisation ou extérieures. Pour résoudre les problèmes d’interopérabilité, les données sont extraites chaque fois que possible en utilisant l’interface du programme d’application, telles que ODBC (Open DataBase Connection), OLEDB (Open Linking and Embedding for DataBase) et JDBC (Java DataBase Connectivity). \cite{book:10}
 
 \subsection{Transformation des données}
-Une fois que les données sont extraites du système source, elles subissent une série de traitements destinée à les transformer en informations présentables.Cette procédure comporte plusieurs aspects : [Matteo G., Stefano R., 2009] \footnote{Matteo Glofarelli and Stefano Rizzi, Data Warehouse Design : Modern Principles and
-Methodologies, June 2009.}
+Une fois que les données sont extraites du système source, elles subissent une série de traitements destinée à les transformer en informations présentables.Cette procédure comporte plusieurs aspects : \cite{book:11}
 \begin{itemize}
     \item le nettoyage, ce qui supprime les erreurs et les incohérences dans les données et les convertit en un format normalisé ; 
     \item l’intégration, qui concilie les données provenant de différentes sources de données, au niveau schéma et données ; 
@@ -190,10 +188,10 @@ Methodologies, June 2009.}
 \end{itemize}
 
 \subsection{Chargement des données}
-Alimente l’entrepôt de données avec les données transformées en respectant les contraintes du SGBD cible. Cela inclut également le rafraîchissement de l’entrepôt de données à savoir, la propagation des mises à jour dans l’entrepôt de données à partir des sources de données à une fréquence spécifiée afin de fournir des données à jour pour le processus de prise de décision. [Elizabieta M., Esteban Z., 2008]
+Alimente l’entrepôt de données avec les données transformées en respectant les contraintes du SGBD cible. Cela inclut également le rafraîchissement de l’entrepôt de données à savoir, la propagation des mises à jour dans l’entrepôt de données à partir des sources de données à une fréquence spécifiée afin de fournir des données à jour pour le processus de prise de décision. \cite{book:10}
 
 \paragraph{}
-Le processus ETL nécessite généralement une zone de préparation de données (data staging). Le data staging représente le chantier de l’ED. C’est là que les données sont chargées, nettoyées, combinées, archivées, puis rapidement exportées vers l’entrepôt. L’objectif de cette zone est l’obtention de données prêtes à être chargées sur un serveur de présentation (un moteur OLAP ou un SGBDR) [Ralph K., Laura R., Margy R., Warren T, 2000]\footnote{Ralph Kimball, Laura Reeves, Margy Ross et Warren Thornthwaite, Concevoir et déployer un data warehouse : Guide de conduit de projet, édition Eyrolles, octobre 2000.}
+Le processus ETL nécessite généralement une zone de préparation de données (data staging). Le data staging représente le chantier de l’ED. C’est là que les données sont chargées, nettoyées, combinées, archivées, puis rapidement exportées vers l’entrepôt. L’objectif de cette zone est l’obtention de données prêtes à être chargées sur un serveur de présentation (un moteur OLAP ou un SGBDR) \cite{book:12}
 
 
 
@@ -202,7 +200,7 @@ Un Datamart est un sous élément du DataWarehouse , également sous le nom de �
 \paragraph{}
 Au sein d’une entreprise, les différents services de celle ci auront besoin chacun de données qui leurs seront propres. Le Datamart a justement été crée pour regrouper au sein d’une base ces informations propres à un service ou plus généralement à une fonction. De ce fait, à une fonction correspond un Datamart. Les bases de données pourront être traitées et préparées plus finement, de manière plus orientée et avec une grande précision.
 \paragraph{}
-Le Datamart rassemble un ensemble de données regroupées, organisées, agrégées et ciblées dans le seul et unique but de répondre aux besoins des métiers. Au sens technique, il est créé à partir d’une base de données relationnelle exploitée à partir du langage informatique SQL\footnote{Structured Query Language, pour les requêtes sur les bases de données} et stockée physiquement sur un disque dur par le biais d’un système de gestion de base de données. Il se situe en aval du DataWarehouse et est alimenté par celui-ci. Les notions que nous venons de decouvrir ainsi que la figure \ref{fig:datamart}, qui démontre la relation entre le Datamart et le Datawarehouse ont étés extraites d'une page web parlant des Datamarts et des Datawarehouse sur le site officiel de SupINFO\footnote{https://www.supinfo.com/articles/single/6686-difference-datawarehouse-datamart}
+Le Datamart rassemble un ensemble de données regroupées, organisées, agrégées et ciblées dans le seul et unique but de répondre aux besoins des métiers. Au sens technique, il est créé à partir d’une base de données relationnelle exploitée à partir du langage informatique SQL\footnote{Structured Query Language, pour les requêtes sur les bases de données} et stockée physiquement sur un disque dur par le biais d’un système de gestion de base de données. Il se situe en aval du DataWarehouse et est alimenté par celui-ci. Les notions que nous venons de decouvrir ainsi que la figure \ref{fig:datamart}, qui démontre la relation entre le Datamart et le Datawarehouse ont étés extraites d'une page web parlant des Datamarts et des Datawarehouse sur le site officiel de SupINFO \cite{WEBSITE:2}
 \begin{figure}[H]
     \centering
     \includegraphics{datamart}
@@ -218,13 +216,12 @@ Le terme OLAP (On-Line Analytical Processing) désigne une classe de technologie
 \paragraph{}
 R. Kimball définit le concept « OLAP » comme \textit{« Activité globale de requêtage et de
 présentation de données textuelles et numériques contenues dans l’entrepôt de données; Style
-d’interrogation spécifiquement dimensionnel » }.[Kimball, 2004]\footnote{R. Kimball et J. Caserta ; « The Data warehouse ETL Toolkit» ;Wiley
-Publishing, INC 2004.}
+d’interrogation spécifiquement dimensionnel » }. \cite{book:14}
 
-C’est en continuant sur sa lancée, qui lui a permis de définir le model OLTP pour les bases de données relationnelles, que le concept OLAP fut introduit et défini6 en 1993 par E.F Codd, le père des bases de données relationnelles, dans un document technique portant le titre de « Providing OLAP (On-Line Analytical Processing) to User-Analysts : An IT Mandate ».[Codd, 1993]\footnote{E. F. Codd ; « Providing OLAP (On-Line Analytical Processing) to User-Analysts : an IT mandate. » ; Technical report ; E.F. Codd and Associates; 1993}
+C’est en continuant sur sa lancée, qui lui a permis de définir le model OLTP pour les bases de données relationnelles, que le concept OLAP fut introduit et défini6 en 1993 par E.F Codd, le père des bases de données relationnelles, dans un document technique portant le titre de « Providing OLAP (On-Line Analytical Processing) to User-Analysts : An IT Mandate ». \cite{ARTICLE:1}
 
 \subsection{Notion de cube}
-D'après Mahèzi Magnouwai dans un article \textit{"Cube OLAP, rapports basés sur un cube"}\footnote{https://www.supinfo.com/articles/single/5554-cube-olap-rapports-bases-cube}, un cube OLAP est une base de données à plusieurs dimensions optimisées pour réaliser des applications décisionnelles. Le cube est un outil d’analyse multidimensionnelle destiné aux utilisateurs métier. La figure \ref{fig:olapcube} provient du même article.
+D'après Mahèzi Magnouwai dans un article \textit{"Cube OLAP, rapports basés sur un cube"} \cite{WEBSITE:6}, un cube OLAP est une base de données à plusieurs dimensions optimisées pour réaliser des applications décisionnelles. Le cube est un outil d’analyse multidimensionnelle destiné aux utilisateurs métier. La figure \ref{fig:olapcube} provient du même article.
 
 \begin{figure}[H]
     \centering
@@ -255,7 +252,7 @@ Le langage des expressions multidimensionnelles possède une syntaxe appropriée
 Le terme "Reporting" désigne une famille d'outils de Business intelligence destinés à assurer la réalisation, la publication et la diffusion de rapports d'activité selon un format prédéterminé. Ils sont essentiellement destinés à faciliter la communication de résultats chiffrés ou d'un suivi d'avancement.
 
 \subsection{Notion de reporting}
-Alain Fernandez dans son article intitulé \textit{"La création et la publication de rapport d'activité"}\footnote{https://www.piloter.org/business-intelligence/reporting.htm} nous fait savoir que l'outil de reporting assure l'interrogation des bases de données selon les requêtes SQL préparées lors de l'élaboration du modèle. Le rapport d'activité peut ensuite être publié sur l'Intranet, périodiquement en automatique ou ponctuellement à la demande. L'outil offre bien entendu des fonctions spécifiques pour l'élaboration du modèle du rapport, des modules de calcul et de présentation (graphiques) afin de concevoir des comptes rendus particulièrement seyants et pertinents.
+Alain Fernandez dans son article intitulé \textit{"La création et la publication de rapport d'activité"} \cite{WEBSITE:4} nous fait savoir que l'outil de reporting assure l'interrogation des bases de données selon les requêtes SQL préparées lors de l'élaboration du modèle. Le rapport d'activité peut ensuite être publié sur l'Intranet, périodiquement en automatique ou ponctuellement à la demande. L'outil offre bien entendu des fonctions spécifiques pour l'élaboration du modèle du rapport, des modules de calcul et de présentation (graphiques) afin de concevoir des comptes rendus particulièrement seyants et pertinents.
 \paragraph{}
 Il continue en disant qu'avec les outils requêteurs, l'utilisateur peut formuler des requêtes d'interrogation "ad hoc" à volonté. Les outils de reporting ne sont pas à proprement parlé des instruments d'aide à la décision. Bien que, lorsqu'ils sont utilisés correctement, on peut juger qu'ils permettent au responsable de disposer d'une précieuse vue d'ensemble de son activité, ils sont en fait surtout destinés à "rendre compte" du travail effectué auprès de la hiérarchie. 
 \paragraph{}
@@ -271,7 +268,7 @@ Le reporting s'inscrit dans une longue tradition du management par le contrôle.
 Provenant du même article, la figure \ref{fig:reportingreussi} montre les étapes à suivre pour obtenir un "rapport réussi". Un "rapport réussi" est un rapport suffisamment pertinent et correctement présenté pour intéresser ses destinataires, soutenir l'attention et susciter des commentaires constructifs.
 
 \subsection{Analyse ad-hoc}
-Margaret Rouse dans son article \textit{"Analyse ad hoc"} sur LeMagIT\footnote{https://www.lemagit.fr/definition/Analyse-ad-hoc} a ecrit les paragraphes suivants sur l'analyse ad hoc.
+Margaret Rouse dans son article \textit{"Analyse ad hoc"} sur LeMagIT \cite{WEBSITE:5} a ecrit les paragraphes suivants sur l'analyse ad hoc.
 \paragraph{}
 L'analyse ad hoc est un processus d'informatique décisionnelle (BI) conçu pour répondre à une question métier unique et précise. Le résultat d'une analyse ad hoc est généralement un modèle statistique, un rapport analytique ou une forme quelconque de synthèse des données. 
 \paragraph{}
@@ -282,7 +279,7 @@ Les tableaux de bord OLAP sont spécialement conçus pour faciliter l'analyse ad
 Bien que destinés à un usage unique, la plupart des rapports et analyses ad hoc finissent souvent par être réutilisés et exécutés régulièrement. Cette pratique relativement courante peut conduire à des processus superflus, qui se révèlent particulièrement lourds dans les périodes de reporting intense. Par conséquent, il convient de revoir périodiquement les rapports en fonction de critères d'efficacité, afin de déterminer s'ils sont toujours utiles.
 
 \subsection{Reporting de masse}
-Tiré du livre blanc de Anne-Marie Abisségué intitulé \textit{"Le reporting de masse : état des lieux et nouveaux enjeux"}, le reporting de masse désigne les outils reposant sur des techniques d'interrogation, de reporting et de diffusion automatisées d'une information personnalisée vers un grand nombre d'utilisateurs. L'évolution des systèmes décisionnels en entreprise est poussée par la nécessité de mettre à disposition du plus grand nombre d’employés des outils d’accessibilité à l’information adaptés leurs besoins. L'objectif étant d'avoir une masse d’information pour prendre les bonnes décisions et mettre en place les bonnes actions.
+Tiré du livre blanc de Anne-Marie Abisségué intitulé \textit{"Le reporting de masse : état des lieux et nouveaux enjeux"} \cite{book:13}, le reporting de masse désigne les outils reposant sur des techniques d'interrogation, de reporting et de diffusion automatisées d'une information personnalisée vers un grand nombre d'utilisateurs. L'évolution des systèmes décisionnels en entreprise est poussée par la nécessité de mettre à disposition du plus grand nombre d’employés des outils d’accessibilité à l’information adaptés leurs besoins. L'objectif étant d'avoir une masse d’information pour prendre les bonnes décisions et mettre en place les bonnes actions.
 \paragraph{}
 A cette étape du développement des systèmes décisionnels, ce sont davantage les capacités de découverte et d'analyse de l'information des outils qui ont été mises en avant. Mais l'utilisation de ces outils présente des contraintes aussi bien en terme de rapidité d'exécution de la requête demandée (plusieurs heures, voire plusieurs jours), qu'en terme de compétence nécessaire pour les manipuler (ces outils mobilisent des analystes spécialisés). Les limites des outils décisionnels traditionnels sont vite atteintes, car leur utilisation reste le fait d'un nombre restreint d'utilisateurs.
 
@@ -315,7 +312,7 @@ L’entreprise, qu’elle soit multinationale ou une TPE\footnote{Très Petite E
 La gestion commerciale s’occupe de toute la chaîne nécessaire à la production de biens/services en vue de leur vente. Elle va donc prendre en charge la prévision, la réalisation et le suivi des ventes. La gestion commerciale englobe aussi bien la fonction achat, que la logistique ou encore la facturation et la vente (dont celle de l’après-vente). 
 
 \subsection{Importance de la gestion commerciale}
-Marion, en 2017\footnote{http://www.ressources-marketing-internet.com/limportance-de-gestion-commerciale-entreprise} dans son article \textit{"L’importance de la gestion commerciale en entreprise"} dit que pour trouver la bonne solution gestion commerciale, il convient d’en comprendre la notion. Cette procédure englobe tous les besoins liés à la production des biens ou services pour la vente. Cette gestion prend ainsi en charge de la prévision, de la réalisation et du suivi des ventes. Elle réunit également la fonction d’achat, la logistique ou encore la facturation et l’après-vente. À titre de rappel, une bonne gestion commerciale assure le pilotage de l’entreprise. C’est la gestion commerciale qui s’occupe de fixer les prix de vente des services ou des produits, effectuer le suivi des stocks ou encore la gestion des relations clients ainsi que la gestion des relations avec les fournisseurs. On entend par là les relances des créances impayées. C’est également en se basant sur les données du département commercial que les dirigeants pourront prendre des décisions stratégiques. 
+Marion, en 2017 \cite{WEBSITE:3} dans son article \textit{"L’importance de la gestion commerciale en entreprise"} dit que pour trouver la bonne solution gestion commerciale, il convient d’en comprendre la notion. Cette procédure englobe tous les besoins liés à la production des biens ou services pour la vente. Cette gestion prend ainsi en charge de la prévision, de la réalisation et du suivi des ventes. Elle réunit également la fonction d’achat, la logistique ou encore la facturation et l’après-vente. À titre de rappel, une bonne gestion commerciale assure le pilotage de l’entreprise. C’est la gestion commerciale qui s’occupe de fixer les prix de vente des services ou des produits, effectuer le suivi des stocks ou encore la gestion des relations clients ainsi que la gestion des relations avec les fournisseurs. On entend par là les relances des créances impayées. C’est également en se basant sur les données du département commercial que les dirigeants pourront prendre des décisions stratégiques. 
 
 \subsection{Objectifs des outils de gestion commerciale}
 Facturation, suivi de livraison, relances client… La gestion commerciale est un service clé de l’entreprise. Elle est facilitée par des outils de gestion informatique de plus en plus efficaces.

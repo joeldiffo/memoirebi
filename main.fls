@@ -62,6 +62,10 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.aux
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.aux
 OUTPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.aux
@@ -102,8 +106,6 @@ INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\remercieme
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\remerciements.tex
 OUTPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.pdf
 INPUT C:\Users\Joel\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\avantpropos.tex
-INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\avantpropos.tex
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\resume.tex
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\resume.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
@@ -111,7 +113,6 @@ INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\abstract.t
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\abstract.tex
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.toc
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.toc
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsl12.tfm
 OUTPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.toc
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.lof
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.lof
@@ -140,8 +141,6 @@ INPUT .\images\composantsdudecisionnel.png
 INPUT .\images\composantsdudecisionnel.png
 INPUT .\images\composantsdudecisionnel.png
 INPUT .\images\composantsdudecisionnel.png
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd
 INPUT images\nonvolatilitedonnees.png
 INPUT .\images\nonvolatilitedonnees.png
 INPUT .\images\nonvolatilitedonnees.png
@@ -176,21 +175,28 @@ INPUT .\images\reportingmasse.png
 INPUT .\images\reportingmasse.png
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre2.tex
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre2.tex
-INPUT images\ishikawa.png
-INPUT .\images\ishikawa.png
-INPUT .\images\ishikawa.png
-INPUT .\images\ishikawa.png
-INPUT .\images\ishikawa.png
 INPUT images\niveaudeladecision.png
 INPUT .\images\niveaudeladecision.png
 INPUT .\images\niveaudeladecision.png
 INPUT .\images\niveaudeladecision.png
 INPUT .\images\niveaudeladecision.png
-INPUT images\aidealadecision.png
-INPUT .\images\aidealadecision.png
-INPUT .\images\aidealadecision.png
-INPUT .\images\aidealadecision.png
-INPUT .\images\aidealadecision.png
+INPUT images\ishikawa.png
+INPUT .\images\ishikawa.png
+INPUT .\images\ishikawa.png
+INPUT .\images\ishikawa.png
+INPUT .\images\ishikawa.png
+INPUT images\gantt.png
+INPUT .\images\gantt.png
+INPUT .\images\gantt.png
+INPUT .\images\gantt.png
+INPUT .\images\gantt.png
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre3.tex
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre3.tex
+INPUT images\scrum.jpg
+INPUT .\images\scrum.jpg
+INPUT .\images\scrum.jpg
+INPUT .\images\scrum.jpg
+INPUT .\images\scrum.jpg
 INPUT images\bac.png
 INPUT .\images\bac.png
 INPUT .\images\bac.png
@@ -217,13 +223,13 @@ INPUT .\images\fsmiseajour.png
 INPUT .\images\fsmiseajour.png
 INPUT .\images\fsmiseajour.png
 INPUT .\images\fsmiseajour.png
-INPUT images\scrum.jpg
-INPUT .\images\scrum.jpg
-INPUT .\images\scrum.jpg
-INPUT .\images\scrum.jpg
-INPUT .\images\scrum.jpg
-INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre3.tex
-INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre3.tex
+INPUT images\aidealadecision.png
+INPUT .\images\aidealadecision.png
+INPUT .\images\aidealadecision.png
+INPUT .\images\aidealadecision.png
+INPUT .\images\aidealadecision.png
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre4.tex
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre4.tex
 INPUT images\architecturesysteme.png
 INPUT .\images\architecturesysteme.png
 INPUT .\images\architecturesysteme.png
@@ -274,6 +280,167 @@ INPUT .\images\exempleconstellation.png
 INPUT .\images\exempleconstellation.png
 INPUT .\images\exempleconstellation.png
 INPUT .\images\exempleconstellation.png
+INPUT images\topdown.jpg
+INPUT .\images\topdown.jpg
+INPUT .\images\topdown.jpg
+INPUT .\images\topdown.jpg
+INPUT .\images\topdown.jpg
+INPUT images\bottomup.jpg
+INPUT .\images\bottomup.jpg
+INPUT .\images\bottomup.jpg
+INPUT .\images\bottomup.jpg
+INPUT .\images\bottomup.jpg
+INPUT images\schemaglobaldwh.png
+INPUT .\images\schemaglobaldwh.png
+INPUT .\images\schemaglobaldwh.png
+INPUT .\images\schemaglobaldwh.png
+INPUT .\images\schemaglobaldwh.png
+INPUT images\datamartvente.png
+INPUT .\images\datamartvente.png
+INPUT .\images\datamartvente.png
+INPUT .\images\datamartvente.png
+INPUT .\images\datamartvente.png
+INPUT images\datamartcommande.png
+INPUT .\images\datamartcommande.png
+INPUT .\images\datamartcommande.png
+INPUT .\images\datamartcommande.png
+INPUT .\images\datamartcommande.png
+INPUT images\etlarchitecture.png
+INPUT .\images\etlarchitecture.png
+INPUT .\images\etlarchitecture.png
+INPUT .\images\etlarchitecture.png
+INPUT .\images\etlarchitecture.png
+INPUT images\etlstaging.png
+INPUT .\images\etlstaging.png
+INPUT .\images\etlstaging.png
+INPUT .\images\etlstaging.png
+INPUT .\images\etlstaging.png
+INPUT images\etldwh.png
+INPUT .\images\etldwh.png
+INPUT .\images\etldwh.png
+INPUT .\images\etldwh.png
+INPUT .\images\etldwh.png
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre5.tex
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\chapitre5.tex
+INPUT images\choisirservice.png
+INPUT .\images\choisirservice.png
+INPUT .\images\choisirservice.png
+INPUT .\images\choisirservice.png
+INPUT .\images\choisirservice.png
+INPUT images\chooseedition.png
+INPUT .\images\chooseedition.png
+INPUT .\images\chooseedition.png
+INPUT .\images\chooseedition.png
+INPUT .\images\chooseedition.png
+INPUT images\featureselection.png
+INPUT .\images\featureselection.png
+INPUT .\images\featureselection.png
+INPUT .\images\featureselection.png
+INPUT .\images\featureselection.png
+INPUT images\instanceconfig.png
+INPUT .\images\instanceconfig.png
+INPUT .\images\instanceconfig.png
+INPUT .\images\instanceconfig.png
+INPUT .\images\instanceconfig.png
+INPUT images\dbengineconfig.png
+INPUT .\images\dbengineconfig.png
+INPUT .\images\dbengineconfig.png
+INPUT .\images\dbengineconfig.png
+INPUT .\images\dbengineconfig.png
+INPUT images\capturestaging.png
+INPUT .\images\capturestaging.png
+INPUT .\images\capturestaging.png
+INPUT .\images\capturestaging.png
+INPUT .\images\capturestaging.png
+INPUT images\capturedwh.png
+INPUT .\images\capturedwh.png
+INPUT .\images\capturedwh.png
+INPUT .\images\capturedwh.png
+INPUT .\images\capturedwh.png
+INPUT images\capturedatamartvente.png
+INPUT .\images\capturedatamartvente.png
+INPUT .\images\capturedatamartvente.png
+INPUT .\images\capturedatamartvente.png
+INPUT .\images\capturedatamartvente.png
+INPUT images\capturedatamartcommande.png
+INPUT .\images\capturedatamartcommande.png
+INPUT .\images\capturedatamartcommande.png
+INPUT .\images\capturedatamartcommande.png
+INPUT .\images\capturedatamartcommande.png
+INPUT images\checkssis.png
+INPUT .\images\checkssis.png
+INPUT .\images\checkssis.png
+INPUT .\images\checkssis.png
+INPUT .\images\checkssis.png
+INPUT images\ssisprogress.png
+INPUT .\images\ssisprogress.png
+INPUT .\images\ssisprogress.png
+INPUT .\images\ssisprogress.png
+INPUT .\images\ssisprogress.png
+INPUT images\ssisproject.png
+INPUT .\images\ssisproject.png
+INPUT .\images\ssisproject.png
+INPUT .\images\ssisproject.png
+INPUT .\images\ssisproject.png
+INPUT images\ssisetlstaging.png
+INPUT .\images\ssisetlstaging.png
+INPUT .\images\ssisetlstaging.png
+INPUT .\images\ssisetlstaging.png
+INPUT .\images\ssisetlstaging.png
+INPUT images\ssisetldatawarehouse.png
+INPUT .\images\ssisetldatawarehouse.png
+INPUT .\images\ssisetldatawarehouse.png
+INPUT .\images\ssisetldatawarehouse.png
+INPUT .\images\ssisetldatawarehouse.png
+INPUT images\ssisetldatamartvente.png
+INPUT .\images\ssisetldatamartvente.png
+INPUT .\images\ssisetldatamartvente.png
+INPUT .\images\ssisetldatamartvente.png
+INPUT .\images\ssisetldatamartvente.png
+INPUT images\ssisetldatamartcommande.png
+INPUT .\images\ssisetldatamartcommande.png
+INPUT .\images\ssisetldatamartcommande.png
+INPUT .\images\ssisetldatamartcommande.png
+INPUT .\images\ssisetldatamartcommande.png
+INPUT images\fenetreconnexionodbc.png
+INPUT .\images\fenetreconnexionodbc.png
+INPUT .\images\fenetreconnexionodbc.png
+INPUT .\images\fenetreconnexionodbc.png
+INPUT .\images\fenetreconnexionodbc.png
+INPUT images\fenetreconnexionfichierplat.png
+INPUT .\images\fenetreconnexionfichierplat.png
+INPUT .\images\fenetreconnexionfichierplat.png
+INPUT .\images\fenetreconnexionfichierplat.png
+INPUT .\images\fenetreconnexionfichierplat.png
+INPUT images\powerquerydatamanip.png
+INPUT .\images\powerquerydatamanip.png
+INPUT .\images\powerquerydatamanip.png
+INPUT .\images\powerquerydatamanip.png
+INPUT .\images\powerquerydatamanip.png
+INPUT images\powerbianalysisvente.png
+INPUT .\images\powerbianalysisvente.png
+INPUT .\images\powerbianalysisvente.png
+INPUT .\images\powerbianalysisvente.png
+INPUT .\images\powerbianalysisvente.png
+INPUT images\dashboard1.png
+INPUT .\images\dashboard1.png
+INPUT .\images\dashboard1.png
+INPUT .\images\dashboard1.png
+INPUT .\images\dashboard1.png
+INPUT images\dashboard2.png
+INPUT .\images\dashboard2.png
+INPUT .\images\dashboard2.png
+INPUT .\images\dashboard2.png
+INPUT .\images\dashboard2.png
+INPUT images\powerbideploy.png
+INPUT .\images\powerbideploy.png
+INPUT .\images\powerbideploy.png
+INPUT .\images\powerbideploy.png
+INPUT .\images\powerbideploy.png
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\conclusiongenerale.tex
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\chapitres\conclusiongenerale.tex
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.bbl
+INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.bbl
 INPUT c:\Users\Joel\Documents\3il5\memoire\memoire\document\main.aux
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
@@ -287,12 +454,8 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsl12.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsl12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy5.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy5.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
