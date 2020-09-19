@@ -1,0 +1,119 @@
+\chapter*{Thesis Development}
+
+\section*{Chapter 1: State of the Art}
+This part let us try to understand the various concepts which will be approached throughout the realization of the project. Starting with decision-making systems or business intelligence, then datawarehouses, ETLs, datamarts, OLAP cubes, reporting systems (data visualization) and finally the business management. The following list contains the different concepts discussed to achieve the objective of this chapter:
+
+\begin{itemize}
+    \item Decision-making systems or "Business Intelligence"
+    \item Datawarehouses
+    \item ETL processes
+    \item Data stores or "datamarts"
+    \item OLAP cubes
+    \item "Reporting" systems
+    \item Business and decision-making management
+\end{itemize}
+
+
+
+\section*{Chapter 2: Specifications}
+As its name, this chapter was intended to highlight the different elements present in the specifications of a project. We started by studying the problem faced by the company and from there emerged the objectives of the project. Then we discussed the needs, functionalities and constraints. Then we finished with the planning and cost estimation.
+
+The content of this chapter is as follows:
+\paragraph {Context:} Talk about the context in which we were for the development of the project.
+
+\paragraph {Problem:} This was about highlighting exactly what the company is facing as a problem. It contains two parts:
+\begin{itemize}
+    \item The problem analysis process
+    \item Identifying the problem
+\end{itemize}
+
+\paragraph{Objectives}: After asking the problems, it was a question of talking about the objectives of the project. Divided into two parts:
+\begin{itemize}
+    \item Main objective
+    \item Specific objectives
+\end{itemize}
+
+\paragraph{Requirements:} Then we had to talk about the customer's requirements. So this part has been divided into two:
+\begin{itemize}
+    \item Functional requirements
+    \item Non-functional requirements
+\end{itemize}
+
+\paragraph{Expected functionalities}: Knowing the needs, we were able to highlight the expected functionalities of the solution.
+
+\paragraph{Constraints}: Then the constraints were discussed. There were two categories: Technological and temporal.
+
+\paragraph{Project stakeholders}: This was the next section where the project stakeholders were mentioned with their roles in the project.
+
+\paragraph{Project planning}: That done, we now had to plan the project. This was done by dividing the project into phases and tasks which were represented in a table with their corresponding duration and precedence. This has been represented on a Gantt chart for better visibility and better tracking.
+
+\paragraph{Cost estimation}: The chapter ended with a cost estimate divided into two as follows:
+\begin{itemize}
+    \item \textbf{Cost estimation method}, where the estimation methods studied and the best chosen
+    \item \textbf{Project cost}, where the project has been evaluated.
+\end{itemize}
+
+
+\section*{Chapter 3: Project Analysis}
+In this chapter an analysis of the project was carried out. We started by talking about the method used for the progress of the project, the tools and techniques for the good progress of the project. Then came a study of the existing system. Then the functional analysis aspect of the system to be set up was addressed, from which emerged a solution that was presented. It consists of the following parts:
+\paragraph{Project management:} Here we have discussed the following topics:
+ \begin{itemize}
+     \item Development process
+     \begin{itemize}
+         \item IS development activities
+         \item Importance of the IS development process
+         \item Types of development processes
+     \end{itemize}
+     \item Management tools and techniques
+     \begin{itemize}
+         \item Presentation of the agile development process: SCRUM
+         \item Collaborative tools
+     \end{itemize}
+ \end{itemize}
+
+\paragraph{Analysis of the existing:} It was a question of doing an in-depth analysis of the system in place in order to best understand how to implement a solution. Done in three parts:
+\begin{itemize}
+    \item Commercial management at AMD
+    \item Downsides of the system in place
+    \item Competing solutions
+\end{itemize}
+
+\paragraph{Functional Analysis}: Allowed us to make the complete analysis of the system to be set up. Contains the following titles: 
+\begin{itemize}
+    \item The functional analysis process
+    \begin{itemize}
+        \item The APTE method
+        \item The stages of the FA
+        \item Requirements Analysis 
+        \item Functional Requirements Analysis
+        \item Technical Functional Analysis
+    \end{itemize}
+\end{itemize}
+
+\paragraph{Accepted Solution}: Here we presented the solution with a brief description
+
+\section*{Chapter 4: Datawarehouse design}
+This chapter has been dedicated to the design of the business intelligence system data warehouse. We started by completely presenting the architecture of the system to be designed, then we designed each of the parts that constitute the establishment of a data warehouse. We started with the data warehouse, from which the data marts arose. Then we moved on to the design of the ETLs that will be responsible for filling data in our datawarehouse.
+
+\paragraph{Architecture of the Business Intelligence system}: Here we have presented in a global way the architecture of the whole system, starting with the multiple sources of data, passing by the ETL, the datawarehouse, the data marts and the cubes then the visualisations.
+
+\paragraph{Design of Datawarehouse and Datamarts}: In this section we designed the different databases that our system will be made up of. Starting with the STAGING database which is a database for preparing data for loading into the final data warehouse. Then we designed the truly said DATAWAREHOUSE. Then the last phase was the design of the different DATAMARTS from the DATAWAREHOUSE. 
+
+\paragraph{ETL Design}: Here we started by presenting the architecture of an ETL process. We then talked about data extraction and how the data should be extracted from the different operational databases. Then we did an analysis of the transformations that the data had to undergo to make them uniform in the warehouse. Then the different loading methods in the DATAWAREHOUSE were discussed to finalize the design of the ETLs to feed our DATAWAREHOUSE. The section closed with a review on how the ETL will be used and a presentation of the ETL designs designed.
+
+
+\section*{Chapter 5: Implementation and Operation}
+Final chapter of the document, it contains elements on the implementation of the system and its exploitation with the data visualization tools. We presented the designed ETLs, the data warehouse and data stores, the designed analysis cubes and a few dashboards made. We started by making a choice of system implementation tool. Hence we chose to implement our system with the MSSQL Server DBMS. The next step was to describe the installation process for SQL Server 2019, the most recent version of the software. Then we went to the creation of databases starting with STAGING, then DATAWAREHOUSE then DATAMARTS.
+
+Then it was time to design the ETLs since they strongly depend on the database in which it will have the task of loading the data. We started by making a choice of the tool to use for the implementation. From this step emerged the SSIS tool from the Microsoft Business Intelligence tool pack. We then saw how to download and install SSIS. The next logical step was to proceed to the creation of ETLs with the tool we had just installed.
+
+We started by creating the ETL for loading data into STAGING. The ETL's job was to extract the data from the different sources and aggregate them in the STAGING from where they will be loaded into the DATAWAREHOUSE. Then we created the DATAWAREHOUSE power supply ETL from STAGING, then the loading ETL for the different DATAMARTS. Powering the DATAWAREHOUSE and DATAMARTS is done by simply executing stored procedures that we had previously created in our DATAWAREHOUSE.
+
+The next step was to load the data which was done from the ODBC plug-in and a flat file connection since these are the corresponding types of our data sources.
+
+After this it was the operating stage of the DATAWAREHOUSE. This part started with the choice of which tool to use. We went with Microsoft Power BI. Then we used the Power BI analysis module to create our data cubes which will facilitate the representations on the visuals. With our cubes we therefore created our dashboards which present easily interpretable graphs. The section and chapter ends with the deployment of dashboards on Power BI Service which the customer can access with their browser or mobile phone.
+
+
+\paragraph{}
+The document closes with a general conclusion of the project and some future perspectives on the expansion of the newly constructed system.
+

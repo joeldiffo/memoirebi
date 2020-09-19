@@ -1,0 +1,70 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\DeclareUnicodeCharacter{0300}{ }
+\DeclareUnicodeCharacter{200B}{ }
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{blindtext}
+\usepackage[margin=1in]{geometry}
+% \renewcommand*\rmdefault{dayrom}
+% \usepackage[T1]{fontenc}
+% \usepackage{textcomp}
+% \normalfont
+
+\usepackage[french]{babel}
+\usepackage{setspace}
+\usepackage[Rejne]{fncychap}
+
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{enumitem}
+
+\setstretch{1.5}
+\usepackage{caption}
+\usepackage{subcaption}
+
+
+\makeatletter
+\renewcommand\tableofcontents{%
+    \if@twocolumn
+      \@restonecoltrue\onecolumn
+    \else
+      \@restonecolfalse
+    \fi
+    \chapter*{\contentsname}%
+    \@mkboth{\MakeUppercase\contentsname}{\MakeUppercase\contentsname}%
+    \@starttoc{toc}%
+    \if@restonecol\twocolumn\fi
+    }
+\makeatother
+
+
+\usepackage{fancyhdr}
+%\pagestyle{headings}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[CE,CO]{Synthèse du Mémoire}
+\renewcommand\footrulewidth{0.4pt}
+\fancyfoot[CE,LO]{Rédigé par FOKOU DIFFO KANG Joel}
+\fancyfoot[LE,RO]{\thepage}
+\usepackage[page]{appendix}
+
+\usepackage{shorttoc}
+
+
+
+\begin{document}
+\renewcommand{\bibname}{Références Bibliographiques}
+\renewcommand{\listfigurename}{Liste des figures}
+\renewcommand{\tablename}{Tableau}
+\renewcommand{\figurename}{Figure}
+
+\input{chapitres/introduction}
+
+\newpage
+\input{chapitres/developpement}
+
+\newpage
+\input{chapitres/conclusion}
+
+\end{document}

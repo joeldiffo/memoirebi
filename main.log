@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2020.8.16)  11 SEP 2020 07:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2020.8.16)  16 SEP 2020 06:26
 entering extended mode
-**c:/Users/Joel/Documents/3il5/memoire/memoire/document/main.tex
-(c:/Users/Joel/Documents/3il5/memoire/memoire/document/main.tex
+**c:/Users/Joel/Documents/3il5/memoire/memoire/Joel/document/main.tex
+(c:/Users/Joel/Documents/3il5/memoire/memoire/Joel/document/main.tex
 LaTeX2e <2018-12-01>
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
@@ -210,7 +210,9 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count128
 \c@@ppsavesec=\count129
 \c@@ppsaveapp=\count130
-) (c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.aux
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/shorttoc\shorttoc.sty"
+Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
+) (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\main.aux
 
 LaTeX Warning: Label `fig:composantsdudecisionnel' multiply defined.
 
@@ -223,18 +225,18 @@ LaTeX Warning: Label `tab:etapesaf' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count131
@@ -313,23 +315,23 @@ Package grfext Info: Graphics extension search list:
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \degres on input line 65.
-LaTeX Info: Redefining \dots on input line 65.
+LaTeX Info: Redefining \degres on input line 66.
+LaTeX Info: Redefining \dots on input line 66.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 65.
+(french.ldf)             reported on input line 66.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 65.
-LaTeX Info: Redefining \up on input line 65.
+(french.ldf)             reported on input line 66.
+LaTeX Info: Redefining \up on input line 66.
 
 Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(french.ldf)                of your document; reported on input line 65.
+(french.ldf)                of your document; reported on input line 66.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/dedicace.tex
+(c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/dedicace.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -341,7 +343,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-) (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/remerciements.tex [1
+) (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/remerciements.tex [1
 
 
 {C:/Users/Joel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -349,14 +351,14 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-) (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/resume.tex [2
+) (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/resume.tex [2
 
 ]
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-) (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/abstract.tex [3
+) (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/abstract.tex [3
 
 ]
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
@@ -366,11 +368,11 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 ) [4
 
 ]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 86--86
+Overfull \hbox (6.0pt too wide) in paragraph at lines 91--91
 [][] 
  []
 
-(c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.toc [5
+(c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\main.toc [5
 
 ]
 
@@ -379,33 +381,36 @@ Make it at least 27.18335pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[6] [7] [8])
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
- [9]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 89--89
+[6]) [7] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/glossaire.tex
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-(c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.lof [10
+[8
+
+]) [9]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 101--101
+[][] 
+ []
+
+(c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\main.lof [10
 
 ] [11])
-\tf@lof=\write4
-\openout4 = `main.lof'.
+\tf@lof=\write3
+\openout3 = `main.lof'.
 
  [12]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 92--92
+Overfull \hbox (6.0pt too wide) in paragraph at lines 105--105
 [][] 
  []
 
-(c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.lot)
-\tf@lot=\write5
-\openout5 = `main.lot'.
+(c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\main.lot)
+\tf@lot=\write4
+\openout4 = `main.lot'.
 
  [13
 
-] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/introductiongenerale.tex
+] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/introductiongenerale.tex
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -417,7 +422,7 @@ Overfull \hbox (5.4581pt too wide) in paragraph at lines 6--7
 
 [1
 
-]) [2] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre1.tex
+]) [2] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/chapitre1.tex
 Chapitre 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 1.
@@ -504,165 +509,170 @@ Overfull \hbox (15.5455pt too wide) in paragraph at lines 312--313
  [] \OT1/cmr/m/n/12 La ges-tion com-mer-ciale s'oc-cupe de toute la cha^ne necessaire a la pro-duc-tion de biens/services
  []
 
-[22] [23]) [24] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre2.tex
+[22] [23]) [24] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/chapitre2.tex
 Chapitre 2.
 [25
 
 ] [26]
-Underfull \hbox (badness 4543) in paragraph at lines 35--36
-[]\OT1/cmr/m/n/12 Utilisation sur 3 annees
- []
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 37--37
-\OT1/cmr/m/n/12 modele de ges-tion as-sez com-plexes.
- []
-
-[27]
-<./images/niveaudeladecision.png, id=153, 546.54187pt x 299.61937pt>
-File: ./images/niveaudeladecision.png Graphic file (type png)
-<use ./images/niveaudeladecision.png>
-Package pdftex.def Info: ./images/niveaudeladecision.png  used on input line 50.
-(pdftex.def)             Requested size: 469.75502pt x 257.52591pt.
- [28 <./images/niveaudeladecision.png>] [29] [30]
-Overfull \hbox (5.03629pt too wide) in paragraph at lines 120--134
+<./images/ishikawa.png, id=150, 510.40688pt x 241.65282pt>
+File: ./images/ishikawa.png Graphic file (type png)
+<use ./images/ishikawa.png>
+Package pdftex.def Info: ./images/ishikawa.png  used on input line 30.
+(pdftex.def)             Requested size: 469.75502pt x 222.41916pt.
+ [27 <./images/ishikawa.png>] [28] [29]
+Overfull \hbox (5.03629pt too wide) in paragraph at lines 135--185
  [][] 
  []
 
-[31] [32]
-<./images/ishikawa.png, id=171, 510.40688pt x 241.65282pt>
-File: ./images/ishikawa.png Graphic file (type png)
-<use ./images/ishikawa.png>
-Package pdftex.def Info: ./images/ishikawa.png  used on input line 157.
-(pdftex.def)             Requested size: 469.75502pt x 222.41916pt.
- [33 <./images/ishikawa.png>] [34]
-<./images/gantt.png, id=178, 1003.49907pt x 239.39438pt>
+[30]
+<./images/gantt.png, id=164, 995.97093pt x 395.97937pt>
 File: ./images/gantt.png Graphic file (type png)
 <use ./images/gantt.png>
-Package pdftex.def Info: ./images/gantt.png  used on input line 244.
-(pdftex.def)             Requested size: 469.75502pt x 112.06606pt.
- [35] [36 <./images/gantt.png>]
-Underfull \hbox (badness 2818) in paragraph at lines 291--291
+Package pdftex.def Info: ./images/gantt.png  used on input line 193.
+(pdftex.def)             Requested size: 469.75502pt x 186.76892pt.
+ [31] [32 <./images/gantt.png>]
+Underfull \hbox (badness 2818) in paragraph at lines 234--234
 []\OT1/cmr/m/n/12 Toshiba (i3-1.9GHz),
  []
 
 
-Overfull \hbox (17.03629pt too wide) in paragraph at lines 287--295
+Overfull \hbox (17.03629pt too wide) in paragraph at lines 230--238
  [][] 
  []
 
 
-Overfull \hbox (1.89731pt too wide) in paragraph at lines 304--304
+Overfull \hbox (1.89731pt too wide) in paragraph at lines 247--247
 []\OT1/cmr/bx/n/12 Ressource| 
  []
 
 
-Overfull \hbox (4.67506pt too wide) in paragraph at lines 304--304
+Overfull \hbox (4.67506pt too wide) in paragraph at lines 247--247
 []\OT1/cmr/bx/n/12 Nombre| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--304
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
 []\OT1/cmr/bx/n/12 Duree
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--306
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
 []\OT1/cmr/m/n/12 Analyste-
  []
 
 
-Overfull \hbox (1.84389pt too wide) in paragraph at lines 306--306
+Overfull \hbox (1.84389pt too wide) in paragraph at lines 249--249
 \OT1/cmr/m/n/12 Concepteur| 
  []
 
 
-Overfull \hbox (7.22717pt too wide) in paragraph at lines 308--308
+Overfull \hbox (7.22717pt too wide) in paragraph at lines 251--251
 []\OT1/cmr/m/n/12 Developpeur
  []
 
 
-Overfull \hbox (0.58351pt too wide) in paragraph at lines 302--314
+Overfull \hbox (0.58351pt too wide) in paragraph at lines 245--257
  [][] 
  []
 
-[37]) [38] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre3.tex
+[33]) [34] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/chapitre3.tex
 Chapitre 3.
-[39
+[35
 
-] [40]
+] [36]
 Overfull \hbox (14.78348pt too wide) in paragraph at lines 41--42
 []\OT1/cmr/bx/n/12 Extreme Pro-gram-ming (XP) :  \OT1/cmr/m/n/12 XP est une ap-proche dis-ci-plinee pour le developpement
  []
 
-[41] [42]
-Overfull \hbox (31.65207pt too wide) in paragraph at lines 74--75
+[37] [38]
+Overfull \hbox (31.65207pt too wide) in paragraph at lines 72--73
 []\OT1/cmr/bx/n/12 M^elee quo-ti-dienne : \OT1/cmr/m/n/12 il s'agit d'une reunion de syn-chro-ni-sa-tion de l'equipe de developpement
  []
 
-<./images/scrum.jpg, id=206, 451.6875pt x 199.74625pt>
+<./images/scrum.jpg, id=191, 451.6875pt x 199.74625pt>
 File: ./images/scrum.jpg Graphic file (type jpg)
 <use ./images/scrum.jpg>
-Package pdftex.def Info: ./images/scrum.jpg  used on input line 78.
+Package pdftex.def Info: ./images/scrum.jpg  used on input line 76.
 (pdftex.def)             Requested size: 469.75502pt x 207.74948pt.
-[43] [44 <./images/scrum.jpg>] [45] [46] [47] [48]
-<./images/bac.png, id=226, 826.08624pt x 343.2825pt>
+[39] [40 <./images/scrum.jpg>] [41]
+Underfull \hbox (badness 4543) in paragraph at lines 126--127
+[]\OT1/cmr/m/n/12 Utilisation sur 3 annees
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 128--128
+\OT1/cmr/m/n/12 modele de ges-tion as-sez com-plexes.
+ []
+
+[42]
+<./images/niveaudeladecision.png, id=205, 546.54187pt x 299.61937pt>
+File: ./images/niveaudeladecision.png Graphic file (type png)
+<use ./images/niveaudeladecision.png>
+Package pdftex.def Info: ./images/niveaudeladecision.png  used on input line 141.
+(pdftex.def)             Requested size: 469.75502pt x 257.52591pt.
+ [43] [44 <./images/niveaudeladecision.png>] [45] [46]
+Overfull \hbox (5.03629pt too wide) in paragraph at lines 211--225
+ [][] 
+ []
+
+[47] [48] [49]
+<./images/bac.png, id=229, 826.08624pt x 343.2825pt>
 File: ./images/bac.png Graphic file (type png)
 <use ./images/bac.png>
-Package pdftex.def Info: ./images/bac.png  used on input line 210.
+Package pdftex.def Info: ./images/bac.png  used on input line 311.
 (pdftex.def)             Requested size: 469.75502pt x 195.2121pt.
- [49 <./images/bac.png>] [50] [51]
-<./images/emeutilisation.png, id=237, 595.47469pt x 301.8778pt>
+ [50] [51 <./images/bac.png>] [52]
+<./images/emeutilisation.png, id=240, 595.47469pt x 301.8778pt>
 File: ./images/emeutilisation.png Graphic file (type png)
 <use ./images/emeutilisation.png>
-Package pdftex.def Info: ./images/emeutilisation.png  used on input line 306.
+Package pdftex.def Info: ./images/emeutilisation.png  used on input line 407.
 (pdftex.def)             Requested size: 469.75502pt x 238.14458pt.
- [52 <./images/emeutilisation.png>]
-<./images/ememiseajour.png, id=242, 593.96906pt x 323.70938pt>
+ [53]
+<./images/ememiseajour.png, id=244, 593.96906pt x 323.70938pt>
 File: ./images/ememiseajour.png Graphic file (type png)
 <use ./images/ememiseajour.png>
-Package pdftex.def Info: ./images/ememiseajour.png  used on input line 329.
+Package pdftex.def Info: ./images/ememiseajour.png  used on input line 430.
 (pdftex.def)             Requested size: 469.75502pt x 256.02397pt.
- [53 <./images/ememiseajour.png>]
-<./images/fsutilisation.png, id=247, 594.72188pt x 304.88907pt>
+ [54 <./images/emeutilisation.png>] [55 <./images/ememiseajour.png>]
+<./images/fsutilisation.png, id=255, 594.72188pt x 304.88907pt>
 File: ./images/fsutilisation.png Graphic file (type png)
 <use ./images/fsutilisation.png>
-Package pdftex.def Info: ./images/fsutilisation.png  used on input line 366.
+Package pdftex.def Info: ./images/fsutilisation.png  used on input line 467.
 (pdftex.def)             Requested size: 469.75502pt x 240.8225pt.
- [54]
-<./images/fsmiseajour.png, id=253, 593.96906pt x 328.22626pt>
+ [56 <./images/fsutilisation.png>]
+<./images/fsmiseajour.png, id=260, 593.96906pt x 328.22626pt>
 File: ./images/fsmiseajour.png Graphic file (type png)
 <use ./images/fsmiseajour.png>
-Package pdftex.def Info: ./images/fsmiseajour.png  used on input line 389.
+Package pdftex.def Info: ./images/fsmiseajour.png  used on input line 490.
 (pdftex.def)             Requested size: 469.75502pt x 259.59639pt.
- [55 <./images/fsutilisation.png>] [56 <./images/fsmiseajour.png>] [57]
-Overfull \hbox (23.40477pt too wide) in paragraph at lines 453--454
+ [57 <./images/fsmiseajour.png>] [58]
+Overfull \hbox (23.40477pt too wide) in paragraph at lines 554--555
 []\OT1/cmr/bx/n/12 La tracabilite :  \OT1/cmr/m/n/12 Les ou-tils de l'AFT per-mettent aux concep-teurs d'as-so-cier immediatement
  []
 
-[58]
-<./images/aidealadecision.png, id=268, 718.685pt x 295.1025pt>
+[59] [60]
+<./images/aidealadecision.png, id=275, 718.685pt x 295.1025pt>
 File: ./images/aidealadecision.png Graphic file (type png)
 <use ./images/aidealadecision.png>
-Package pdftex.def Info: ./images/aidealadecision.png  used on input line 498.
+Package pdftex.def Info: ./images/aidealadecision.png  used on input line 599.
 (pdftex.def)             Requested size: 469.75502pt x 192.89503pt.
- [59] [60 <./images/aidealadecision.png>]) [61] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre4.tex
+ [61 <./images/aidealadecision.png>]) [62] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/chapitre4.tex
 Chapitre 4.
-[62
+[63
 
 ]
-<./images/architecturesysteme.png, id=283, 791.20593pt x 271.76532pt>
+<./images/architecturesysteme.png, id=286, 791.20593pt x 271.76532pt>
 File: ./images/architecturesysteme.png Graphic file (type png)
 <use ./images/architecturesysteme.png>
 Package pdftex.def Info: ./images/architecturesysteme.png  used on input line 16.
 (pdftex.def)             Requested size: 469.75502pt x 161.35196pt.
- [63 <./images/architecturesysteme.png>]
-<./images/bddetdwh.png, id=288, 570.63188pt x 354.57469pt>
+ [64 <./images/architecturesysteme.png>]
+<./images/bddetdwh.png, id=291, 570.63188pt x 354.57469pt>
 File: ./images/bddetdwh.png Graphic file (type png)
 <use ./images/bddetdwh.png>
 Package pdftex.def Info: ./images/bddetdwh.png  used on input line 37.
 (pdftex.def)             Requested size: 469.75502pt x 291.89471pt.
- [64]
+ [65]
 Overfull \hbox (14.0094pt too wide) in paragraph at lines 42--43
 []\OT1/cmr/m/n/12 Mais d'abord par-lons de l'ar-chi-tec-ture qu'aura le da-ta-wa-re-house que nous vou-lons construire. 
  []
@@ -672,245 +682,245 @@ Overfull \hbox (5.52754pt too wide) in paragraph at lines 49--50
 \OT1/cmr/m/n/12 conte-nir des donnees agregees cou-vrant l'en-semble de l'or-ga-ni-sa-tion. Ce modele considere
  []
 
-[65 <./images/bddetdwh.png>]
-<./images/architecturedwh.png, id=296, 473.51906pt x 306.39468pt>
+[66 <./images/bddetdwh.png>]
+<./images/architecturedwh.png, id=300, 473.51906pt x 306.39468pt>
 File: ./images/architecturedwh.png Graphic file (type png)
 <use ./images/architecturedwh.png>
 Package pdftex.def Info: ./images/architecturedwh.png  used on input line 57.
 (pdftex.def)             Requested size: 469.75502pt x 303.9675pt.
- [66 <./images/architecturedwh.png>]
-<./images/architecturedwhfinal.png, id=302, 472.76625pt x 266.49562pt>
+ [67 <./images/architecturedwh.png>]
+<./images/architecturedwhfinal.png, id=305, 472.76625pt x 266.49562pt>
 File: ./images/architecturedwhfinal.png Graphic file (type png)
 <use ./images/architecturedwhfinal.png>
 Package pdftex.def Info: ./images/architecturedwhfinal.png  used on input line 66.
 (pdftex.def)             Requested size: 469.75502pt x 264.80334pt.
-<./images/modeledimensionnel.png, id=303, 356.0803pt x 316.93407pt>
+<./images/modeledimensionnel.png, id=306, 356.0803pt x 316.93407pt>
 File: ./images/modeledimensionnel.png Graphic file (type png)
 <use ./images/modeledimensionnel.png>
 Package pdftex.def Info: ./images/modeledimensionnel.png  used on input line 76.
 (pdftex.def)             Requested size: 469.75502pt x 418.12697pt.
- [67 <./images/architecturedwhfinal.png>]
-<./images/structuretabledesfaits.png, id=308, 252.945pt x 158.09062pt>
+ [68 <./images/architecturedwhfinal.png>]
+<./images/structuretabledesfaits.png, id=311, 252.945pt x 158.09062pt>
 File: ./images/structuretabledesfaits.png Graphic file (type png)
 <use ./images/structuretabledesfaits.png>
 Package pdftex.def Info: ./images/structuretabledesfaits.png  used on input line 88.
 (pdftex.def)             Requested size: 225.48555pt x 140.93178pt.
-<./images/exempletabledesfaits.png, id=309, 115.18031pt x 136.25906pt>
+<./images/exempletabledesfaits.png, id=312, 115.18031pt x 136.25906pt>
 File: ./images/exempletabledesfaits.png Graphic file (type png)
 <use ./images/exempletabledesfaits.png>
 Package pdftex.def Info: ./images/exempletabledesfaits.png  used on input line 94.
 (pdftex.def)             Requested size: 131.52882pt x 155.60928pt.
- [68 <./images/modeledimensionnel.png>]
-<./images/exempletablesdedimensions.png, id=313, 374.14781pt x 225.09094pt>
+ [69 <./images/modeledimensionnel.png>]
+<./images/exempletablesdedimensions.png, id=316, 374.14781pt x 225.09094pt>
 File: ./images/exempletablesdedimensions.png Graphic file (type png)
 <use ./images/exempletablesdedimensions.png>
 Package pdftex.def Info: ./images/exempletablesdedimensions.png  used on input line 105.
 (pdftex.def)             Requested size: 469.75502pt x 282.62346pt.
- [69 <./images/structuretabledesfaits.png> <./images/exempletabledesfaits.png>]
-<./images/exempleflocon.png, id=317, 368.1253pt x 284.56313pt>
+ [70 <./images/structuretabledesfaits.png> <./images/exempletabledesfaits.png>]
+<./images/exempleflocon.png, id=320, 368.1253pt x 284.56313pt>
 File: ./images/exempleflocon.png Graphic file (type png)
 <use ./images/exempleflocon.png>
 Package pdftex.def Info: ./images/exempleflocon.png  used on input line 125.
 (pdftex.def)             Requested size: 469.75502pt x 363.14969pt.
- [70 <./images/exempletablesdedimensions.png>]
-<./images/exempleconstellation.png, id=321, 545.78906pt x 229.60782pt>
+ [71 <./images/exempletablesdedimensions.png>]
+<./images/exempleconstellation.png, id=324, 545.78906pt x 229.60782pt>
 File: ./images/exempleconstellation.png Graphic file (type png)
 <use ./images/exempleconstellation.png>
 Package pdftex.def Info: ./images/exempleconstellation.png  used on input line 134.
 (pdftex.def)             Requested size: 469.75502pt x 197.62003pt.
- [71 <./images/exempleflocon.png>] [72 <./images/exempleconstellation.png>]
-<./images/topdown.jpg, id=329, 343.2825pt x 540.0175pt>
+ [72 <./images/exempleflocon.png>] [73 <./images/exempleconstellation.png>]
+<./images/topdown.jpg, id=332, 343.2825pt x 540.0175pt>
 File: ./images/topdown.jpg Graphic file (type jpg)
 <use ./images/topdown.jpg>
 Package pdftex.def Info: ./images/topdown.jpg  used on input line 159.
 (pdftex.def)             Requested size: 187.90271pt x 295.58502pt.
-<./images/bottomup.jpg, id=330, 359.3425pt x 538.01pt>
+<./images/bottomup.jpg, id=333, 359.3425pt x 538.01pt>
 File: ./images/bottomup.jpg Graphic file (type jpg)
 <use ./images/bottomup.jpg>
 Package pdftex.def Info: ./images/bottomup.jpg  used on input line 165.
 (pdftex.def)             Requested size: 199.64731pt x 298.91925pt.
- [73 <./images/topdown.jpg> <./images/bottomup.jpg>] [74]
-<./images/schemaglobaldwh.png, id=337, 603.75563pt x 420.06938pt>
+ [74 <./images/topdown.jpg> <./images/bottomup.jpg>] [75]
+<./images/schemaglobaldwh.png, id=340, 603.75563pt x 420.06938pt>
 File: ./images/schemaglobaldwh.png Graphic file (type png)
 <use ./images/schemaglobaldwh.png>
 Package pdftex.def Info: ./images/schemaglobaldwh.png  used on input line 232.
 (pdftex.def)             Requested size: 469.75502pt x 326.83876pt.
- [75]
-<./images/datamartvente.png, id=341, 585.68813pt x 416.30531pt>
+ [76]
+<./images/datamartvente.png, id=344, 585.68813pt x 416.30531pt>
 File: ./images/datamartvente.png Graphic file (type png)
 <use ./images/datamartvente.png>
 Package pdftex.def Info: ./images/datamartvente.png  used on input line 247.
 (pdftex.def)             Requested size: 469.75502pt x 333.91496pt.
- [76 <./images/schemaglobaldwh.png>]
-<./images/datamartcommande.png, id=346, 640.64343pt x 365.86688pt>
+ [77 <./images/schemaglobaldwh.png>]
+<./images/datamartcommande.png, id=349, 640.64343pt x 365.86688pt>
 File: ./images/datamartcommande.png Graphic file (type png)
 <use ./images/datamartcommande.png>
 Package pdftex.def Info: ./images/datamartcommande.png  used on input line 259.
 (pdftex.def)             Requested size: 469.75502pt x 268.27528pt.
- [77 <./images/datamartvente.png>]
-<./images/etlarchitecture.png, id=351, 699.36281pt x 353.06906pt>
+ [78 <./images/datamartvente.png>]
+<./images/etlarchitecture.png, id=355, 699.36281pt x 353.06906pt>
 File: ./images/etlarchitecture.png Graphic file (type png)
 <use ./images/etlarchitecture.png>
 Package pdftex.def Info: ./images/etlarchitecture.png  used on input line 271.
 (pdftex.def)             Requested size: 469.75502pt x 237.15842pt.
- [78 <./images/datamartcommande.png>] [79 <./images/etlarchitecture.png>] [80]
-<./images/etlstaging.png, id=364, 953.06062pt x 348.55219pt>
+ [79 <./images/datamartcommande.png>] [80 <./images/etlarchitecture.png>] [81]
+<./images/etlstaging.png, id=367, 953.06062pt x 348.55219pt>
 File: ./images/etlstaging.png Graphic file (type png)
 <use ./images/etlstaging.png>
 Package pdftex.def Info: ./images/etlstaging.png  used on input line 305.
 (pdftex.def)             Requested size: 469.75502pt x 171.80257pt.
-<./images/etldwh.png, id=365, 795.72281pt x 191.9672pt>
+<./images/etldwh.png, id=368, 795.72281pt x 191.9672pt>
 File: ./images/etldwh.png Graphic file (type png)
 <use ./images/etldwh.png>
 Package pdftex.def Info: ./images/etldwh.png  used on input line 315.
 (pdftex.def)             Requested size: 469.75502pt x 113.32703pt.
- [81 <./images/etlstaging.png> <./images/etldwh.png>]) [82] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/chapitre5.tex
+ [82 <./images/etlstaging.png> <./images/etldwh.png>]) [83] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/chapitre5.tex
 Chapitre 5.
-[83
+[84
 
 ]
-<./images/choisirservice.png, id=377, 649.67719pt x 417.81094pt>
+<./images/choisirservice.png, id=381, 649.67719pt x 417.81094pt>
 File: ./images/choisirservice.png Graphic file (type png)
 <use ./images/choisirservice.png>
 Package pdftex.def Info: ./images/choisirservice.png  used on input line 34.
 (pdftex.def)             Requested size: 341.43306pt x 219.58354pt.
- [84 <./images/choisirservice.png>]
-<./images/chooseedition.png, id=383, 666.99188pt x 427.5975pt>
+ [85 <./images/choisirservice.png>]
+<./images/chooseedition.png, id=386, 666.99188pt x 427.5975pt>
 File: ./images/chooseedition.png Graphic file (type png)
 <use ./images/chooseedition.png>
 Package pdftex.def Info: ./images/chooseedition.png  used on input line 43.
 (pdftex.def)             Requested size: 341.43306pt x 218.89394pt.
-<./images/featureselection.png, id=384, 665.48625pt x 433.62pt>
+<./images/featureselection.png, id=387, 665.48625pt x 433.62pt>
 File: ./images/featureselection.png Graphic file (type png)
 <use ./images/featureselection.png>
 Package pdftex.def Info: ./images/featureselection.png  used on input line 53.
 (pdftex.def)             Requested size: 341.43306pt x 222.47319pt.
- [85 <./images/chooseedition.png> <./images/featureselection.png>]
-<./images/instanceconfig.png, id=390, 657.95813pt x 426.09187pt>
+ [86 <./images/chooseedition.png> <./images/featureselection.png>]
+<./images/instanceconfig.png, id=393, 657.95813pt x 426.09187pt>
 File: ./images/instanceconfig.png Graphic file (type png)
 <use ./images/instanceconfig.png>
 Package pdftex.def Info: ./images/instanceconfig.png  used on input line 62.
 (pdftex.def)             Requested size: 341.43306pt x 221.11392pt.
-<./images/dbengineconfig.png, id=391, 642.14906pt x 426.84468pt>
+<./images/dbengineconfig.png, id=394, 642.14906pt x 426.84468pt>
 File: ./images/dbengineconfig.png Graphic file (type png)
 <use ./images/dbengineconfig.png>
 Package pdftex.def Info: ./images/dbengineconfig.png  used on input line 71.
 (pdftex.def)             Requested size: 341.43306pt x 226.96259pt.
- [86 <./images/instanceconfig.png> <./images/dbengineconfig.png>]
-<./images/capturestaging.png, id=397, 581.17125pt x 309.40594pt>
+ [87 <./images/instanceconfig.png> <./images/dbengineconfig.png>]
+<./images/capturestaging.png, id=400, 581.17125pt x 309.40594pt>
 File: ./images/capturestaging.png Graphic file (type png)
 <use ./images/capturestaging.png>
 Package pdftex.def Info: ./images/capturestaging.png  used on input line 85.
 (pdftex.def)             Requested size: 469.75502pt x 250.09338pt.
-<./images/capturedwh.png, id=398, 612.03656pt x 329.73187pt>
+<./images/capturedwh.png, id=401, 612.03656pt x 329.73187pt>
 File: ./images/capturedwh.png Graphic file (type png)
 <use ./images/capturedwh.png>
 Package pdftex.def Info: ./images/capturedwh.png  used on input line 97.
 (pdftex.def)             Requested size: 469.75502pt x 253.07924pt.
- [87 <./images/capturestaging.png>]
-<./images/capturedatamartvente.png, id=403, 540.51938pt x 292.84406pt>
+ [88 <./images/capturestaging.png>]
+<./images/capturedatamartvente.png, id=406, 540.51938pt x 292.84406pt>
 File: ./images/capturedatamartvente.png Graphic file (type png)
 <use ./images/capturedatamartvente.png>
 Package pdftex.def Info: ./images/capturedatamartvente.png  used on input line 108.
 (pdftex.def)             Requested size: 469.75502pt x 254.51309pt.
- [88 <./images/capturedwh.png>]
-<./images/capturedatamartcommande.png, id=408, 531.48563pt x 289.08pt>
+ [89 <./images/capturedwh.png>]
+<./images/capturedatamartcommande.png, id=411, 531.48563pt x 289.08pt>
 File: ./images/capturedatamartcommande.png Graphic file (type png)
 <use ./images/capturedatamartcommande.png>
 Package pdftex.def Info: ./images/capturedatamartcommande.png  used on input line 117.
 (pdftex.def)             Requested size: 469.75502pt x 255.51157pt.
- [89 <./images/capturedatamartvente.png> <./images/capturedatamartcommande.png>]
+ [90 <./images/capturedatamartvente.png> <./images/capturedatamartcommande.png>]
 Overfull \hbox (19.01952pt too wide) in paragraph at lines 133--134
 []\OT1/cmr/m/n/12 Cliquez sur \OT1/cmr/m/it/12 Ins-tall SQL Ser-ver Data Tools \OT1/cmr/m/n/12 pour par-cou-rir une page Web de telechargement ; 
  []
 
-<./images/checkssis.png, id=414, 478.03593pt x 218.31563pt>
+<./images/checkssis.png, id=418, 478.03593pt x 218.31563pt>
 File: ./images/checkssis.png Graphic file (type png)
 <use ./images/checkssis.png>
 Package pdftex.def Info: ./images/checkssis.png  used on input line 147.
 (pdftex.def)             Requested size: 469.75502pt x 214.53413pt.
-[90]
-<./images/ssisprogress.png, id=419, 480.29437pt x 234.8775pt>
+[91]
+<./images/ssisprogress.png, id=422, 480.29437pt x 234.8775pt>
 File: ./images/ssisprogress.png Graphic file (type png)
 <use ./images/ssisprogress.png>
 Package pdftex.def Info: ./images/ssisprogress.png  used on input line 156.
 (pdftex.def)             Requested size: 469.75502pt x 229.72679pt.
- [91 <./images/checkssis.png> <./images/ssisprogress.png>]
-<./images/ssisproject.png, id=425, 480.29437pt x 120.45pt>
+ [92 <./images/checkssis.png> <./images/ssisprogress.png>]
+<./images/ssisproject.png, id=428, 480.29437pt x 120.45pt>
 File: ./images/ssisproject.png Graphic file (type png)
 <use ./images/ssisproject.png>
 Package pdftex.def Info: ./images/ssisproject.png  used on input line 164.
 (pdftex.def)             Requested size: 469.75502pt x 117.8086pt.
-<./images/ssisetlstaging.png, id=426, 854.44218pt x 439.6425pt>
+<./images/ssisetlstaging.png, id=429, 854.44218pt x 439.6425pt>
 File: ./images/ssisetlstaging.png Graphic file (type png)
 <use ./images/ssisetlstaging.png>
 Package pdftex.def Info: ./images/ssisetlstaging.png  used on input line 175.
 (pdftex.def)             Requested size: 469.75502pt x 241.70349pt.
-<./images/ssisetldatawarehouse.png, id=427, 761.09344pt x 207.77625pt>
+<./images/ssisetldatawarehouse.png, id=430, 761.09344pt x 207.77625pt>
 File: ./images/ssisetldatawarehouse.png Graphic file (type png)
 <use ./images/ssisetldatawarehouse.png>
 Package pdftex.def Info: ./images/ssisetldatawarehouse.png  used on input line 185.
 (pdftex.def)             Requested size: 469.75502pt x 128.24608pt.
- [92 <./images/ssisproject.png> <./images/ssisetlstaging.png>]
-<./images/ssisetldatamartvente.png, id=432, 727.21687pt x 173.14688pt>
+ [93 <./images/ssisproject.png> <./images/ssisetlstaging.png>]
+<./images/ssisetldatamartvente.png, id=435, 727.21687pt x 173.14688pt>
 File: ./images/ssisetldatamartvente.png Graphic file (type png)
 <use ./images/ssisetldatamartvente.png>
 Package pdftex.def Info: ./images/ssisetldatamartvente.png  used on input line 194.
 (pdftex.def)             Requested size: 469.75502pt x 111.84929pt.
-<./images/ssisetldatamartcommande.png, id=433, 743.77875pt x 194.97844pt>
+<./images/ssisetldatamartcommande.png, id=436, 743.77875pt x 194.97844pt>
 File: ./images/ssisetldatamartcommande.png Graphic file (type png)
 <use ./images/ssisetldatamartcommande.png>
 Package pdftex.def Info: ./images/ssisetldatamartcommande.png  used on input line 203.
 (pdftex.def)             Requested size: 469.75502pt x 123.14647pt.
-<./images/fenetreconnexionodbc.png, id=434, 749.04843pt x 481.04718pt>
+<./images/fenetreconnexionodbc.png, id=437, 749.04843pt x 481.04718pt>
 File: ./images/fenetreconnexionodbc.png Graphic file (type png)
 <use ./images/fenetreconnexionodbc.png>
 Package pdftex.def Info: ./images/fenetreconnexionodbc.png  used on input line 214.
 (pdftex.def)             Requested size: 469.75502pt x 301.68137pt.
- [93 <./images/ssisetldatawarehouse.png> <./images/ssisetldatamartvente.png> <./images/ssisetldatamartcommande.png>]
-<./images/fenetreconnexionfichierplat.png, id=438, 737.75626pt x 451.6875pt>
+ [94 <./images/ssisetldatawarehouse.png> <./images/ssisetldatamartvente.png> <./images/ssisetldatamartcommande.png>]
+<./images/fenetreconnexionfichierplat.png, id=441, 737.75626pt x 451.6875pt>
 File: ./images/fenetreconnexionfichierplat.png Graphic file (type png)
 <use ./images/fenetreconnexionfichierplat.png>
 Package pdftex.def Info: ./images/fenetreconnexionfichierplat.png  used on input line 223.
 (pdftex.def)             Requested size: 469.75502pt x 287.60408pt.
- [94 <./images/fenetreconnexionodbc.png>]
-<./images/powerquerydatamanip.png, id=443, 1009.52156pt x 492.33937pt>
+ [95 <./images/fenetreconnexionodbc.png>]
+<./images/powerquerydatamanip.png, id=446, 1009.52156pt x 492.33937pt>
 File: ./images/powerquerydatamanip.png Graphic file (type png)
 <use ./images/powerquerydatamanip.png>
-Package pdftex.def Info: ./images/powerquerydatamanip.png  used on input line 235.
+Package pdftex.def Info: ./images/powerquerydatamanip.png  used on input line 237.
 (pdftex.def)             Requested size: 469.75502pt x 229.10071pt.
- [95 <./images/fenetreconnexionfichierplat.png>]
-<./images/powerbianalysisvente.png, id=448, 1024.57782pt x 481.04718pt>
+ [96 <./images/fenetreconnexionfichierplat.png>]
+<./images/powerbianalysisvente.png, id=452, 1024.57782pt x 481.04718pt>
 File: ./images/powerbianalysisvente.png Graphic file (type png)
 <use ./images/powerbianalysisvente.png>
-Package pdftex.def Info: ./images/powerbianalysisvente.png  used on input line 243.
+Package pdftex.def Info: ./images/powerbianalysisvente.png  used on input line 245.
 (pdftex.def)             Requested size: 469.75502pt x 220.55037pt.
- [96 <./images/powerquerydatamanip.png>]
-<./images/dashboard1.png, id=454, 654.19406pt x 365.86688pt>
+ [97 <./images/powerquerydatamanip.png>]
+<./images/dashboard1.png, id=457, 813.79031pt x 456.95718pt>
 File: ./images/dashboard1.png Graphic file (type png)
 <use ./images/dashboard1.png>
-Package pdftex.def Info: ./images/dashboard1.png  used on input line 252.
-(pdftex.def)             Requested size: 469.75502pt x 262.71495pt.
- [97 <./images/powerbianalysisvente.png>]
-<./images/dashboard2.png, id=459, 654.94687pt x 366.61969pt>
+Package pdftex.def Info: ./images/dashboard1.png  used on input line 254.
+(pdftex.def)             Requested size: 469.75502pt x 263.7733pt.
+ [98 <./images/powerbianalysisvente.png>]
+<./images/dashboard2.png, id=462, 654.94687pt x 366.61969pt>
 File: ./images/dashboard2.png Graphic file (type png)
 <use ./images/dashboard2.png>
-Package pdftex.def Info: ./images/dashboard2.png  used on input line 260.
+Package pdftex.def Info: ./images/dashboard2.png  used on input line 262.
 (pdftex.def)             Requested size: 469.75502pt x 262.95343pt.
- [98 <./images/dashboard1.png> <./images/dashboard2.png>]
-<./images/powerbideploy.png, id=465, 539.76656pt x 317.68687pt>
+ [99 <./images/dashboard1.png> <./images/dashboard2.png>]
+<./images/powerbideploy.png, id=468, 539.76656pt x 317.68687pt>
 File: ./images/powerbideploy.png Graphic file (type png)
 <use ./images/powerbideploy.png>
-Package pdftex.def Info: ./images/powerbideploy.png  used on input line 270.
+Package pdftex.def Info: ./images/powerbideploy.png  used on input line 272.
 (pdftex.def)             Requested size: 469.75502pt x 276.48712pt.
-) [99 <./images/powerbideploy.png>] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\chapitres/conclusiongenerale.tex
+) [100 <./images/powerbideploy.png>] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\chapitres/conclusiongenerale.tex
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 [][] 
  []
 
-) [100
+) [101
 
-] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.bbl [101]
+] [102] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\main.bbl
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--1
 [][] 
  []
@@ -920,7 +930,7 @@ Underfull \hbox (badness 2277) in paragraph at lines 37--41
 []\OT1/cmr/m/n/12 Fernandez, A.  La creation et la pu-bli-ca-tion de rap-port d'ac-ti-vite.
  []
 
-[102
+[103
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 73--78
@@ -947,23 +957,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--116
 \OT1/cmr/m/n/12 https ://www.supinfo.com/articles/single/6686-difference-datawarehouse-datamart.
  []
 
-) [103] (c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.aux)
+) [104]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 146--146
+[][] 
+ []
+
+(c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\main.toc [105
+
+] [106] [107] [108])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [109] (c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5828 strings out of 492946
- 96140 string characters out of 3135530
- 173217 words of memory out of 3000000
- 9544 multiletter control sequences out of 15000+200000
+ 5854 strings out of 492946
+ 97069 string characters out of 3135530
+ 180512 words of memory out of 3000000
+ 9561 multiletter control sequences out of 15000+200000
  10129 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,43p,1151b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,43p,1156b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on c:/Users\Joel\Documents\3il5\memoire\memoire\document\main.pdf (116 pages, 4071301 bytes).
+Output written on c:/Users\Joel\Documents\3il5\memoire\memoire\Joel\document\main.pdf (122 pages, 4099036 bytes).
 PDF statistics:
- 519 PDF objects out of 1000 (max. 8388607)
+ 538 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  296 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -59,6 +59,7 @@
 % \setcounter{tocdepth}{3}
 
 % \usepackage{hyperref}
+\usepackage{shorttoc}
 
 
 
@@ -80,14 +81,26 @@
 
 \input{chapitres/abstract}
 
-\renewcommand{\contentsname}{Sommaire}
-% \etocsetnexttocdepth{section}
-\addcontentsline{toc}{chapter}{\numberline{}\contentsname}
-\tableofcontents
+% \renewcommand{\contentsname}{Sommaire}
+% % \etocsetnexttocdepth{section}
+% \addcontentsline{toc}{chapter}{\numberline{}\contentsname}
+% \tableofcontents
 
+\newpage
+\addcontentsline{toc}{chapter}{\numberline{}Sommaire}%
+\shorttoc{Sommaire}{1}
+
+
+
+\newpage
+\input{chapitres/glossaire}
+
+
+\newpage
 \addcontentsline{toc}{chapter}{\numberline{}\listfigurename}
 \listoffigures
 
+\newpage
 \addcontentsline{toc}{chapter}{\numberline{}\listtablename}
 \listoftables
 
@@ -115,8 +128,11 @@
 
 % \newpage
 % \printbibliography
+\newpage
+\addcontentsline{toc}{chapter}{\numberline{}\bibname}
 \bibliography{sample} 
 \bibliographystyle{apalike}
+
 
 
 % \newpage
@@ -124,9 +140,10 @@
 
 
 
-% \setcounter{tocdepth}{4}
-% \addcontentsline{toc}{chapter}{\numberline{}Table des Matières}
-% \tableofcontents
+\newpage
+\setcounter{tocdepth}{2}
+\addcontentsline{toc}{chapter}{\numberline{}\contentsname}
+\tableofcontents
 
 
 

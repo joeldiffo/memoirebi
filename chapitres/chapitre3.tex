@@ -2,7 +2,7 @@
 
 \section*{Introduction}%
 \addcontentsline{toc}{section}{\numberline{}Introduction}%
-Dans ce chapitre nous effectuerons l’analyse de notre projet. Nous allons commencer par présenter la méthode que nous utiliserons pour le déroulement du projet. Ensuite nous aborderons l’aspect analyse fonctionnelle du système à mettre sur pied d’où on ressortira avec une solution qu’on doit présenter.
+Dans ce chapitre nous effectuerons l’analyse de notre projet. Nous allons commencer par présenter la méthode que nous utiliserons pour le déroulement du projet, les outils et techniques pour le bon déroulement du projet. Puis on fera une analyse de l'existant. Ensuite nous aborderons l’aspect analyse fonctionnelle du système à mettre sur pied d’où on ressortira avec une solution qu’on doit présenter.
 \section{Gestion du projet }
 \subsection{Processus de développement }
 Le processus de développement ou encore cycle de vie, c'est l'ensemble structuré d'activités à réaliser pour atteindre l'objectif d'un projet SI, dont les activités varient en fonction de l'organisation, du projet, et du type de système à développer. Ce processus doit être explicitement décrit pour être adéquatement géré. 
@@ -43,8 +43,6 @@ Dans cette catégorie nous pouvons recenser quelques-uns des méthodes les plus 
 
 Pour ce projet nous utiliseront la méthodologie SCRUM car elle est la plus adaptée pour la gestion de notre projet.
 
-% \subsection{Choix des outils de modélisation}
-% \blindtext
 \subsection{Outils et techniques de gestion}
 \subsubsection{Présentation du processus de développement agile : SCRUM}
 \paragraph{Principes de SCRUM}
@@ -94,30 +92,6 @@ Comme on le vois dans la figure \ref{fig:scrum}, durant chaque "sprint" (habitue
     \item Il est plus facile de livrer un produit de qualité durant un temps planifié.
 \end{itemize}
 
-\subsubsection{Technique d’estimation des coûts}
-Afin d’évaluer le coût de notre projet, on doit d’abord définir les éléments de base qui constitue votre projet : 
-\begin{itemize}
-    \item Le planning initial du projet
-    \item La durée de chaque tâche
-    \item La durée totale du projet
-    \item Les ressources humaines nécessaire
-    \item Les ressources matérielles nécessaire
-    \item Les ressources logiciels nécessaire
-\end{itemize}
-
-\paragraph{Méthodes d’estimation des coûts : }On distingue deux méthodes
-\begin{itemize}
-    \item \textbf{La méthode analogique :} Cette méthode consiste à se référer aux coûts réels des projets similaires au vôtre et à les adapter en faisant quelques ajustements. Il est également possible de s’appuyer sur l’avis d’un chef de projet expérimenté qui a travaillé sur un projet semblable. Elle se déroule en trois étapes :
-    \begin{itemize}
-        \item Analyse du projet ;
-        \item Recherche d’un projet similaire ;
-        \item Comparaison et chiffrage.
-    \end{itemize}
-    \item \textbf{La méthode ascendante :} Le but de cette méthode est d’estimer le coût de chaque groupement de tâches, puis d’additionner chacune de ces estimations afin d’obtenir le coût global du projet. Cette méthode est plus précise que la précédente car elle s’appuie sur l’expérience et l’avis des personnes qui exécutent les tâches en question. Cette méthode s’utilise lors de l’élaboration du budget. Une fois que tous les éléments du projet ont été chiffrés, on les additionne afin d’obtenir le coût total du projet.
-\end{itemize}
-
-Nous optons pour la deuxième méthode pour plus de précision.
-
 \subsubsection{Outils collaboratifs}
 Des centaines d’outils collaboratifs existent pour toute sorte de collaboration. Nous allons nous attarder sur trois catégories nous permettant de mener à bien notre projet. 
 
@@ -125,6 +99,133 @@ Des centaines d’outils collaboratifs existent pour toute sorte de collaboratio
 
 \paragraph{Outil professionnel pour la communication dans l’équipe : } Nous avons choisi \textbf{Slack} ici. Slack est une application de messagerie instantanée permettant le travail collaboratif. Les conversations avec vos collaborateurs et prestataires sont organisées sous forme de chaînes et lorsque l’écrit ne suffit plus vous pouvez facilement organiser des appels audios et/ou vidéos.
  \paragraph{Outil professionnel pour les réunions : } \textbf{Skype} est un logiciel de messagerie instantanée utile pour dialoguer avec vos collaborateurs en temps réel. Vous pourrez facilement organiser des réunions, et même partager vos écrans et annoter des présentations PowerPoint. Les fonctionnalités de Skype sont très avancées pour le travail collaboratif.
+\section{Analyse de l’existant}
+ Nous ne saurions débuter ce travail sans avoir une idée claire et précise sur l’existant quel qu’il soit. La première tâche a été de rencontrer les différentes personnes qui sont ou peuvent être impliquées dans les prises de décision et la gestion commerciale en général dans l’entreprise. 
+ \paragraph{}
+ Nous avons principalement travaillé avec le chef du département de l’approvisionnement, de la recherche et de l’innovation, M. Arnold KOGAING. Après quoi, nous avons réellement débuté le travail en menant différentes recherches. Cette méthodologie de travail nous a permis d’avoir une connaissance large de l’existant.
+ 
+ \subsection{La gestion commerciale à AMD}
+ AMD Sarl est une PME et comme la plupart des entreprises, pour leur aider dans la gestion de leurs activités au quotidien y compris la gestion commerciale, utilisent un outil de gestion commerciale en ligne, notamment l’ERP Sage 100.
+ \paragraph{}
+ Sage 100 est un logiciel qui propose d’accompagner les petites et moyennes entreprises dans la gestion de leurs ressources. De la gestion commerciale en passant par la comptabilité et les fonctionnalités de pilotage, Sage 100 s’impose comme un outil indispensable aux PME. Pour autant, la gestion des clients tout comme celle des achats et des fournisseurs ne sont pas en reste puisque Sage 100 propose une gestion puissante du cycle de vente du début de la chaîne jusqu’à sa fin.
+ \paragraph{}
+ Sage 100 est assez récent dans l’entreprise avec d’autres outils tels Gescom v14 et MS Excel utilisés pour gérer les processus de gestion commerciale. 
+ 
+ \subsubsection{Outils de gestion commerciale}
+ Le tableau \ref{tab:outilsdegescom} decrit un peu l'historique des outils des gestion commerciale utilisés par AMD.
+ 
+ \begin{table}[H]
+     \centering
+     \caption{Tableau des outils de gestion commerciale utilisés au fil du temps.}
+     \begin{tabular}[t]{|p{3cm}|p{7cm}|p{5cm}|} 
+         \hline
+         \textbf{Outil} & \textbf{Description} & \textbf{Période} \\
+         \hline\hline
+         Sage 100 & ERP offrant de nombreuses fonctionnalitées & Moins de 10 mois d'utilisation \\
+         \hline
+         Gescom v14 & ERP, offrant moins de fonctionnalites que Sage 100 et les données sont moins descriptifs. Données pas aussi  fiables que celles de Sage 100  & Utilisation sur 3 années avant Sage 100 \\ 
+         \hline
+         Microsoft Excel & Tableur, permettant de concevoir de modèle de gestion assez complexes. Données encore moins fiables que celles de Gescom v14 & Utilisation sur 10 ans avant Gescom v14 \\ 
+         \hline
+         Traces papiers & Utilisation de papiers pour garder toute traces des transactions effectués par l’entreprise. & Dès la création de l’entreprise jusqu’à l’introduction de MS Excel. \\ 
+         \hline\hline
+     \end{tabular}
+     \label{tab:outilsdegescom}
+ \end{table}%
+ 
+ \subsubsection{Prises de décisions en gestion commerciale}
+ Concernant de départements en entier, les décisions finales sont prises par le directeur général de l’entreprise après une ou plusieurs réunions avec les responsables dans le département en question et d’autres cadres. Ces réunions incluent souvent des brainstormings ou encore des analyses des chiffres. Il peut aussi arriver que le directeur se fie à son intuition pour prendre une décision. La figure \ref{fig:niveaudeladecision}, extraite d'un document en ligne\footnote{http://mmanagement.e-monsite.com/medias/files/les-decisions-et-parties-prenantes.pdf} intitulé \textit{"Décisions et le processus de décision"} montre les niveaux de décisions en entreprise.
+ 
+ \begin{figure}[H]
+     \centering
+     \includegraphics[width=\textwidth]{niveaudeladecision}
+     \caption{Les niveaux de la décision}
+     \label{fig:niveaudeladecision}
+ \end{figure}
+ 
+ 
+ Pour les décisions moins importantes, les chefs des différents départements ou services peuvent s’en charger suivant le même procédé que celui mentionné plus haut. En gros on recueille les points suivants dans la procédure de prise de décision.
+ \begin{itemize}
+     \item Identifier la problématique à résoudre
+     \item Identifier les différentes options possibles (brainstormings)
+     \item Analyser les conséquences pour chaque option (analyses des chiffres)
+     \item Définir l'option retenue (le directeur) et la mettre en oeuvre (les acteurs concernés)
+ \end{itemize}
+ 
+ \subsection{Critique de l’existant}
+ La critique de l'existant, appelée aussi bilan de l'existant, va nous aider à l'évaluation du système existant par rapport à la prise de décisions de gestion commerciale puisque c'est là que se pose nos problématiques. Ce diagnostic est établit dans le but de rechercher des solutions futures à des problèmes posés.
+ \paragraph{}
+ Le but de la critique de l'existant est d'établir un diagnostic précis sur les procédures utilisées, relever les anomalies, les qualités et les défauts du système existant.
+ \paragraph{}
+ Par ailleurs, deux aspects sont toujours dégagés lors de cette critique dont l'un est positif et l'autre négatif.Ces deux aspects méritent d'être soulevés étant donné que le besoin de la perfection sera toujours souhaité par les utilisateurs en vue de bon fonctionnement.
+ 
+ \subsubsection{Aspect(s) positifs}
+ Sous forme de liste on peut recenser les points positifs suivants dans le processus de prise de décisions.
+ \begin{itemize}
+     \item Les opinions et analyses sont collectives
+     \item Les chiffres (données) sont prises en considération dans le processus
+     \item L'aspect \textit{"intuition"} est aussi considéré, ce qui garde notre nature humaine dans le processus.
+ \end{itemize}
+ 
+ \subsubsection{Aspect(s) négatifs}
+ Dans le processus de prise de décisions, l'analyse des chiffres intervient mais comme nous le savons tous, l'erreur est humaine. En ce faisant on peut rencontrer l'un des problèmes suivants, ce qui risque de mener à une mauvaise décision :
+ 
+ \begin{itemize}
+     \item Mauvaise compréhension des chiffres
+     \item Mauvaise correlation entre les différents sources ou rapports
+     \item Ne pas analyser au delà des chiffres
+     \item Focus sur la mauvaise métrique
+ \end{itemize}
+ 
+ 
+ \subsection{Les solutions concurrentes}
+ Nous avons vu plus haut les étapes du processus de prise de décisions. Il peut être reformulé de la façon suivante :
+ \begin{itemize}
+     \item La phase de formulation ;
+     \item La phase d’instruction ;
+     \item La phase de choix ;
+     \item La phase d’exécution.
+ \end{itemize}
+ \subsubsection{Techniques de prise de décisions}
+ Dans le processus mentionné plus haut c’est la troisième phase qui nous intéresse ici. On recense les techniques suivantes pour passer cette phase :
+ \begin{itemize}
+     \item Se fier à l’intuition d’une ou plusieurs personnes
+     \item Analyser les chiffres
+     \item Utiliser un outil d’aide à la décision (Business Intelligence)
+ \end{itemize}
+ 
+ Nous avons vu plus haut quelques problèmes sur lesquels nous pouvons tomber en simplement analysant les chiffres sans outil d’aide. Aussi, l’intuition humaine peut s’avérer important dans certaines situations mais il est loin d’être suffisant pour prendre des décisions importantes. Nous pouvons ainsi conclure qu’un outil d’aide à la décision s’impose si nous voulons être optimal dans nos prises de décisions.
+ 
+ \subsubsection{Typologies des solutions de Business Intelligence}
+ \begin{itemize}
+     \item \textbf{BI intégrée :} Il s’agit de solutions pouvant être intégrées à d’autres applications. Elle offrent des fonctionnalités analytiques et génèrent rapports et tableaux de bords ad hoc. Leur grande force réside dans leur capacité à s’intégrer à l’existant, y compris aux solutions de gestion d’éditeurs différents.
+     \item \textbf{BI en libre service :} Il s’agit de solutions orientées utilisateur final : il n’a pas à se soucier du traitement en amont des données. Par le biais d’une interface conviviale, il peut librement explorer les données disponibles via des tableaux de bords personnalisables. On qualifie parfois ces solutions d’auto-suffisantes car elles accèdent à différentes sources de données pour en extraire des informations pertinentes sans le concours d’un service informatique dédié.
+     \item \textbf{La DataViz :} Il s’agit de la data visualisation (visualisation de données) une fonction essentielle dans le traitement graphique des données traitées par la BI. Il s’agit de rendre intelligibles les informations traitées sous formes de graphes, tableaux et autres histogrammes. L’utilisateur final peut à loisir opter pour la visualisation qui correspond au traitement attendu des données. Contrairement à d’autres solutions, les applications de DataViz ne se connectent pas à des entrepôts de données non-structurées mais utilisent des bases de données déjà établies et/ou les données issues d’applications métiers. Il s’agit de fournir des indicateurs précis en temps réel afin de saisir un instantané opérationnel. La plupart du temps les tableaux de bord offrent une interface qui permet de les modifier par simple glisser-déposer.
+     \item \textbf{Plate-forme de Business Intelligence : } Il s’agit d’outils complets de traitement des données structurées et non-structurées. Ils exploitent ces dernières afin d’en tirer une analyse pertinente, traduite elle aussi sous forme graphique. Ce type de solutions nécessite souvent un travail de développement et des spécialistes au sein d’un service informatique qui géreront le traitement des données en amont de l’utilisateur métier. Ce dernier peut alors se consacrer pleinement à l’analyse métier.
+ \end{itemize}
+ Nous avons plusieurs sources de données de différents types, nous voulons pouvoir faires des analyses et enfin visualiser ces données. Après cette étude nous sommes ressortis avec le tableau \ref{tab:comparatiftypebi} comparant les différents types de BI. Ceci nous guidera dans notre choix du type de solution à adopter.
+ 
+ \begin{table}[H]
+     \centering
+     \caption{Tableau comparatif des types de Business Intelligence.}
+     \begin{tabular}[t]{|p{6cm}|p{3cm}|p{3cm}|p{3cm}|} 
+         \hline
+         \textbf{Typologie} & \textbf{Agrégation} & \textbf{Analyse} & \textbf{Visualisation} \\
+         \hline\hline
+         BI intégrée & Non & Non & \textbf{Oui} \\
+         \hline
+         BI en libre service & Non & Non & \textbf{Oui} \\
+         \hline
+         La DataViz & Non & \textbf{Oui} & \textbf{Oui} \\
+         \hline
+         Plate-forme de Business Intelligence & \textbf{Oui} & \textbf{Oui} & \textbf{Oui} \\
+         \hline\hline
+     \end{tabular}
+     \label{tab:comparatiftypebi}
+ \end{table}%
+ 
+ 
+ 
 \section{Analyse Fonctionnelle (A.F.)}
 L’A.F. s’adresse aux concepteurs de produits. Il peut s’agir d’un objet matériel ou immatériel (produit industriel, objet technique, service à la personne, services financier, programme informatique dans notre cas...). Le but de l’AF est d’optimiser la conception ou la reconception de produits en s’appuyant sur les fonctions que doit réaliser le produit. Une fois les fonctions du produit identifiées et caractérisées, l’équipe de conception peut mesurer son état d’avancement et de réussite par rapport à des critères objectifs.
 
@@ -512,4 +613,4 @@ De ce fait notre solution sera constitué de trois (03) grandes parties, chaqu�
 
 \section*{Conclusion}%
 \addcontentsline{toc}{section}{\numberline{}Conclusion}%
-Dans ce chapitre il était question de présenter la méthode de déroulement du projet, faire une analyse fonctionnelle complète et ressortir la solution. Cela fait nous pouvons à présent évoluer vers la conception de notre solution.  
+Dans ce chapitre il était question de présenter la méthode de déroulement du projet, analyser l'existant, faire une analyse fonctionnelle complète et ressortir la solution. Celà fait nous pouvons à présent évoluer vers la conception de notre solution.  
